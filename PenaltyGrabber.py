@@ -1,3 +1,7 @@
+'''
+	This program was written by Roy W. Gero.
+	If you have questions, comments or concerns please contact him on GitHub
+'''
 from HTMLParser import HTMLParser
 import glob,os
 
