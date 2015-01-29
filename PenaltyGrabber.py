@@ -200,7 +200,7 @@ def writeCounter(total,players,teams,refs,desiredPenalty):
 		This function writes all the sorted data to a TXT file
 	'''
 	fileName = desiredPenalty + "_Counted.txt"
-	file = open(fileName, 'w')
+	file = open("Penalties\\" + fileName, 'w')
 	file.write("This is the sorted data for the calls involving %s\n\nIt has been called %d times\n\nTeams\n\n" % (desiredPenalty, total))
 	for i in teams:
 		file.write(i[0] + " - " + str(i[1]) + "\n")
@@ -222,7 +222,9 @@ def searchForPenalty(desiredPenalty, Penalties):
 	totalTimesCalled = 0
 	desiredPenArray = []
 	outputFileName = desiredPenalty + ".txt"
-	outputFile = open(outputFileName, 'w')
+	if not os.path.exists("Penalties"):
+		os.makedirs("Penalties")
+	outputFile = open("Penalties\\" + outputFileName, 'w')
 	if len(Penalties) != 0:
 		for i in Penalties:
 			if desiredPenalty.lower() in i[2].lower():
