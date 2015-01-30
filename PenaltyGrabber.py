@@ -118,10 +118,10 @@ def processFiles():
 					#This code has to be introduced because of an error on NHL.com's page for
 					#The Edmonton game on 2014-12-31 in which Keith Aulie's penalty is "Keith Aulie"
 					if "ith Aulie" not in penaltyCommitted:
-						penaltyEvent.append(penaltyCommitted)
-						
 						penaltyEvent.append(penalizedTeam)
 						penaltyEvent.append(penalizedPlayer)
+						penaltyEvent.append(penaltyCommitted)
+
 						
 						#This is going to give me a complete list of all the penalties called this season
 						if penaltyCommitted not in penaltyList:
