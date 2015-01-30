@@ -21,6 +21,7 @@ def processFiles():
 	'''	This function runs through every file in the GameLogs directory and processes all the data into an array.
 		It returns the array and the total number of penalties.
 	'''
+	penaltyList = []
 	allPenalties = []
 	totalNumberOfPenalties = 0
 	for filename in glob.iglob('GameLogs\*\*.htm'): #This will iterate through every folder and file
@@ -102,29 +103,49 @@ def processFiles():
 					
 					#To format the penaltyCommitted
 					penaltyCommitted = GeneralData[i+2]
+					
+					'''	This had to be added in the even that a player commits two penalties
+						before the stoppage of play. We have to look two data slots to the right
+						One Data slot would give you the player who is serving their penalty
+					'''
+					if "served by" in GeneralData[i+2]:
+						penaltyCommitted = GeneralData[i+4]
+					
 					penaltyCommitted = penaltyCommitted[3::]
 					endOfPenalty = penaltyCommitted.find("\n")
 					penaltyCommitted = penaltyCommitted[0:endOfPenalty]
 					
-					penaltyEvent.append(penalizedTeam)
-					penaltyEvent.append(penalizedPlayer)
-					penaltyEvent.append(penaltyCommitted)
-				
-					if penalizedTeam == playingTeams[0]:
-						penaltyEvent.append("AWAY")
-						penaltyEvent.append(playingTeams[1])
-					else:
-						penaltyEvent.append("HOME")
-						penaltyEvent.append(playingTeams[0])	
+					#This code has to be introduced because of an error on NHL.com's page for
+					#The Edmonton game on 2014-12-31 in which Keith Aulie's penalty is "Keith Aulie"
+					if "ith Aulie" not in penaltyCommitted:
+						penaltyEvent.append(penaltyCommitted)
+						
+						penaltyEvent.append(penalizedTeam)
+						penaltyEvent.append(penalizedPlayer)
+						
+						#This is going to give me a complete list of all the penalties called this season
+						if penaltyCommitted not in penaltyList:
+							if " (maj)" not in penaltyCommitted:
+								penaltyList.append(penaltyCommitted)
+						if "rved by" in penaltyCommitted:
+							print penalizedPlayer, penalizedTeam, date, filename
+						
 					
-					penaltyEvent.append(date) #Appends the date to the array for further sorting later
-					penaltyEvent.append(first_Ref)
-					penaltyEvent.append(second_Ref)
+						if penalizedTeam == playingTeams[0]:
+							penaltyEvent.append("AWAY")
+							penaltyEvent.append(playingTeams[1])
+						else:
+							penaltyEvent.append("HOME")
+							penaltyEvent.append(playingTeams[0])	
+						
+						penaltyEvent.append(date) #Appends the date to the array for further sorting later
+						penaltyEvent.append(first_Ref)
+						penaltyEvent.append(second_Ref)
 
-					allPenalties.append(penaltyEvent)
-					totalNumberOfPenalties +=1
+						allPenalties.append(penaltyEvent)
+						totalNumberOfPenalties +=1
 	print len(allPenalties)
-	return allPenalties, totalNumberOfPenalties
+	return allPenalties, totalNumberOfPenalties, penaltyList
 
 
 
@@ -238,10 +259,14 @@ def searchForPenalty(desiredPenalty, Penalties):
 		outputFile.write("None Found")
 	outputFile.close()
 	return desiredPenArray, totalTimesCalled
-	
+
+def group_penalties(penList):
+	groupedList = []
+	for i in penList:
+		pass
 
 '''All code that does not exist in a function'''	
-allPenalties, totalNumberOfPenalties = processFiles()	
+allPenalties, totalNumberOfPenalties, penaltyList = processFiles()
 desiredPenalty = raw_input("Please enter the penalty you are looking for: ")
 desiredPenArray, totalTimesCalled = searchForPenalty(desiredPenalty, allPenalties)
 desiredPlayers = playerCounter(desiredPenArray)
