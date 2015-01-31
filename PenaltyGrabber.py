@@ -127,8 +127,6 @@ def processFiles():
 						if penaltyCommitted not in penaltyList:
 							if " (maj)" not in penaltyCommitted:
 								penaltyList.append(penaltyCommitted)
-						if "rved by" in penaltyCommitted:
-							print penalizedPlayer, penalizedTeam, date, filename
 						
 					
 						if penalizedTeam == playingTeams[0]:
