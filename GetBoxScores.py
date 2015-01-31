@@ -22,7 +22,10 @@ for i in range(delta.days + 1):
 	if not os.path.exists("GameLogs\\"+str(dateInQuestion)):
 		dateInQuestion = str(dateInQuestion)
 		dateInQuestion = dateInQuestion[5:7] + "/" + dateInQuestion[8::] + "/" + dateInQuestion[0:4]
-		daysToGet.append( str(dateInQuestion))
+		todayFormatted = str(today)
+		todayFormated = todayFormatted[5:7] + "/" + todayFormatted[8::] + "/" + todayFormatted[0:4]
+		if dateInQuestion not in todayFormated:
+			daysToGet.append( str(dateInQuestion))
 
 '''	
 	To save time, I am keeping track of all the days that don't have games.
