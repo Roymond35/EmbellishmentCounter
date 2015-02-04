@@ -1,0 +1,864 @@
+Player's Team | Player Name | Home or Away | Opponent | Date | First Referee | Second Referee  
+---|---|---|---|---|---|---
+CGY | Paul Byron | AWAY | VAN | 2014-10-08 | Tim Peel | Ghislain Hebert  
+SJS | Matt Nieto | HOME | LAK | 2014-10-08 | Dan O'Rourke | Dan O'Halloran  
+CBJ | Fedor Tyutin | HOME | BUF | 2014-10-09 | Francis Charron | Tom Kowal  
+BUF | Brian Gionta | AWAY | CBJ | 2014-10-09 | Francis Charron | Tom Kowal  
+MIN | Ryan Carter | HOME | COL | 2014-10-09 | Frederick L'Ecuyer | Greg Kimmerly  
+CGY | Joe Colborne | AWAY | EDM | 2014-10-09 | Tim Peel | Ghislain Hebert  
+CGY | TJ Brodie | AWAY | EDM | 2014-10-09 | Tim Peel | Ghislain Hebert  
+ARI | Sam Gagner | AWAY | WPG | 2014-10-09 | Dan O'Rourke | Dan O'Halloran  
+WPG | Toby Enstrom | HOME | ARI | 2014-10-09 | Dan O'Rourke | Dan O'Halloran  
+WPG | Andrew Ladd | HOME | ARI | 2014-10-09 | Dan O'Rourke | Dan O'Halloran  
+NJD | Adam Henrique | AWAY | PHI | 2014-10-09 | Jean Hebert | Steve Kozari  
+NJD | Patrik Elias | AWAY | PHI | 2014-10-09 | Jean Hebert | Steve Kozari  
+NJD | Jaromir Jagr | AWAY | PHI | 2014-10-09 | Jean Hebert | Steve Kozari  
+PIT | Nick Spaling | HOME | ANA | 2014-10-09 | Gord Dwyer | Marc Joannette  
+PIT | Evgeni Malkin | HOME | ANA | 2014-10-09 | Gord Dwyer | Marc Joannette  
+PIT | Evgeni Malkin | HOME | ANA | 2014-10-09 | Gord Dwyer | Marc Joannette  
+MTL | P.K. Subban | AWAY | WSH | 2014-10-09 | Rob Martell | Chris Lee  
+FLA | Jussi Jokinen | AWAY | TBL | 2014-10-09 | Brian Pochmara | Kevin Pollock  
+FLA | Scottie Upshall | AWAY | TBL | 2014-10-09 | Brian Pochmara | Kevin Pollock  
+NYR | Lee Stempniak | AWAY | STL | 2014-10-09 | Chris Rooney | Kyle Rehman  
+NYR | Carl Hagelin | AWAY | STL | 2014-10-09 | Chris Rooney | Kyle Rehman  
+STL | Ian Cole | HOME | NYR | 2014-10-09 | Chris Rooney | Kyle Rehman  
+NSH | Craig Smith | AWAY | OTT | 2014-10-09 | Kelly Sutherland | Dave Lewis  
+CHI | Marcus Kruger | AWAY | DAL | 2014-10-09 | Graham Skilliter | Francois St. Laurent  
+DAL | Vernon Fiddler | HOME | CHI | 2014-10-09 | Graham Skilliter | Francois St. Laurent  
+NYI | Johnny Boychuk | HOME | CAR | 2014-10-10 | Justin St. Pierre | Ian Walsh  
+MIN | Ryan Carter | HOME | COL | 2014-10-11 | Tim Peel | Graham Skilliter  
+MIN | Kyle Brodziak | HOME | COL | 2014-10-11 | Tim Peel | Graham Skilliter  
+LAK | Tanner Pearson | HOME | ARI | 2014-10-11 | Wes McCauley | Francois St. Laurent  
+LAK | Tyler Toffoli | HOME | ARI | 2014-10-11 | Wes McCauley | Francois St. Laurent  
+EDM | Mark Fayne | AWAY | VAN | 2014-10-11 | Mike Leggo | Ghislain Hebert  
+SJS | Joe Pavelski | AWAY | WPG | 2014-10-11 | Dan O'Rourke | Dan O'Halloran  
+TBL | Brenden Morrow | HOME | OTT | 2014-10-11 | Chris Rooney | Kyle Rehman  
+TBL | Anton Stralman | HOME | OTT | 2014-10-11 | Chris Rooney | Kyle Rehman  
+FLA | Tomas Fleischmann | AWAY | NJD | 2014-10-11 | Brian Pochmara | Kevin Pollock  
+NYI | Travis Hamonic | HOME | CAR | 2014-10-11 | Jean Hebert | Steve Kozari  
+PHI | Michael Del Zotto | HOME | MTL | 2014-10-11 | Rob Martell | Chris Lee  
+CBJ | Michael Chaput | AWAY | NYR | 2014-10-11 | Frederick L'Ecuyer | Marc Joannette  
+STL | David Backes | HOME | CGY | 2014-10-11 | Greg Kimmerly | Brad Watson  
+STL | T.J. Oshie | HOME | CGY | 2014-10-11 | Greg Kimmerly | Brad Watson  
+STL | Kevin Shattenkirk | HOME | CGY | 2014-10-11 | Greg Kimmerly | Brad Watson  
+TOR | Phil Kessel | HOME | PIT | 2014-10-11 |  html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- Always force latest IE rendering engine **This must be the top most tag in the head to work properly** --><meta content="IE=edge" http-equiv="X-UA-Compatible"/><script> var baseUrl = 'http://www.nhl.com/';  var baseUrlWithPath = 'http://www.nhl.com/gamecenter/en/'; var gclMsgSlateUrl = 'http://www.nhl.com/gamecenter/en/gclslate';  var clubSite = false; var site = 'nhl'; var siteLanguageCode = 'en'; </script><!--  pageNameComment  --><!--  renderTimeComment  --><head><title>Pittsburgh Penguins at Toronto Maple Leafs - 10/11/2014</title><meta content="text/html;charset=UTF-8" http-equiv="Content-Type"/><meta content="Game boxscores featuring stats |   
+TOR | Phil Kessel | HOME | PIT | 2014-10-11 |  html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- Always force latest IE rendering engine **This must be the top most tag in the head to work properly** --><meta content="IE=edge" http-equiv="X-UA-Compatible"/><script> var baseUrl = 'http://www.nhl.com/';  var baseUrlWithPath = 'http://www.nhl.com/gamecenter/en/'; var gclMsgSlateUrl = 'http://www.nhl.com/gamecenter/en/gclslate';  var clubSite = false; var site = 'nhl'; var siteLanguageCode = 'en'; </script><!--  pageNameComment  --><!--  renderTimeComment  --><head><title>Pittsburgh Penguins at Toronto Maple Leafs - 10/11/2014</title><meta content="text/html;charset=UTF-8" http-equiv="Content-Type"/><meta content="Game boxscores featuring stats |   
+TOR | Stephane Robidas | HOME | NYR | 2014-10-12 | Gord Dwyer | Chris Lee  
+NYR | Derick Brassard | AWAY | TOR | 2014-10-12 | Gord Dwyer | Chris Lee  
+WPG | Zach Bogosian | HOME | LAK | 2014-10-12 | Wes McCauley | Francois St. Laurent  
+LAK | Jeff Carter | AWAY | WPG | 2014-10-12 | Wes McCauley | Francois St. Laurent  
+FLA | Nick Bjugstad | AWAY | OTT | 2014-10-13 | Chris Rooney | Ian Walsh  
+FLA | Nick Bjugstad | AWAY | OTT | 2014-10-13 | Chris Rooney | Ian Walsh  
+TBL | Matthew Carle | HOME | MTL | 2014-10-13 | Brian Pochmara | Mark Lemelin  
+TBL | Brett Connolly | HOME | MTL | 2014-10-13 | Brian Pochmara | Mark Lemelin  
+BUF | Andre Benoit | HOME | ANA | 2014-10-13 | Dave Jackson | Jean Hebert  
+BUF | Torrey Mitchell | HOME | ANA | 2014-10-13 | Dave Jackson | Jean Hebert  
+BUF | Andre Benoit | HOME | ANA | 2014-10-13 | Dave Jackson | Jean Hebert  
+WSH | Nicklas Backstrom | HOME | SJS | 2014-10-14 | Francis Charron | Marc Joannette  
+SJS | Joe Thornton | AWAY | WSH | 2014-10-14 | Francis Charron | Marc Joannette  
+DAL | Erik Cole | HOME | CBJ | 2014-10-14 | Chris Lee | Darcy Burchell  
+DAL | Trevor Daley | HOME | CBJ | 2014-10-14 | Chris Lee | Darcy Burchell  
+CAR | Chris Terry | HOME | BUF | 2014-10-14 | Jean Hebert | Rob Martell  
+BUF | Andre Benoit | AWAY | CAR | 2014-10-14 | Jean Hebert | Rob Martell  
+BUF | Torrey Mitchell | AWAY | CAR | 2014-10-14 | Jean Hebert | Rob Martell  
+NYR | Dominic Moore | HOME | NYI | 2014-10-14 | Dave Jackson | Greg Kimmerly  
+NYI | Thomas Hickey | AWAY | NYR | 2014-10-14 | Dave Jackson | Greg Kimmerly  
+TOR | Stephane Robidas | HOME | COL | 2014-10-14 | Kelly Sutherland | Justin St. Pierre  
+NJD | Martin Havlat | AWAY | TBL | 2014-10-14 | Chris Rooney | Ian Walsh  
+TBL | Steven Stamkos | HOME | NJD | 2014-10-14 | Chris Rooney | Ian Walsh  
+LAK | Tanner Pearson | HOME | EDM | 2014-10-14 | Mike Leggo | Brad Watson  
+LAK | Slava Voynov | HOME | EDM | 2014-10-14 | Mike Leggo | Brad Watson  
+LAK | Jarret Stoll | HOME | EDM | 2014-10-14 | Mike Leggo | Brad Watson  
+PHI | Andrew MacDonald | HOME | ANA | 2014-10-14 | Paul Devorski | Gord Dwyer  
+PHI | Nick Schultz | HOME | ANA | 2014-10-14 | Paul Devorski | Gord Dwyer  
+EDM | Nikita Nikitin | HOME | ARI | 2014-10-15 | Eric Furlatt | Tom Chmielewski  
+ARI | David Moss | AWAY | EDM | 2014-10-15 | Eric Furlatt | Tom Chmielewski  
+EDM | Jordan Eberle | HOME | ARI | 2014-10-15 | Eric Furlatt | Tom Chmielewski  
+DET | Johan Franzen | HOME | BOS | 2014-10-15 | Kevin Pollock | TJ Luxmore  
+BOS | Patrice Bergeron | AWAY | DET | 2014-10-15 | Kevin Pollock | TJ Luxmore  
+CGY | Brandon Bollig | AWAY | CHI | 2014-10-15 | Dan O'Halloran | Frederick L'Ecuyer  
+CGY | Dennis Wideman | AWAY | CHI | 2014-10-15 | Dan O'Halloran | Frederick L'Ecuyer  
+NYR | Ryan McDonagh | HOME | CAR | 2014-10-16 | Mike Leggo | Dave Lewis  
+LAK | Jeff Carter | AWAY | STL | 2014-10-16 | Eric Furlatt | Tom Chmielewski  
+DAL | Vernon Fiddler | AWAY | PIT | 2014-10-16 | Greg Kimmerly | Ghislain Hebert  
+DET | Johan Franzen | AWAY | TOR | 2014-10-17 | Tim Peel | Graham Skilliter  
+TOR | Peter Holland | HOME | DET | 2014-10-17 | Tim Peel | Graham Skilliter  
+NSH | Anton Volchenkov | AWAY | WPG | 2014-10-17 | Brad Watson | Chris Lee  
+VAN | Derek Dorsett | HOME | EDM | 2014-10-17 | Kyle Rehman | Steve Kozari  
+EDM | Mark Arcobello | AWAY | VAN | 2014-10-17 | Kyle Rehman | Steve Kozari  
+MIN | Matt Dumba | HOME | ANA | 2014-10-17 | Dennis LaRue | Eric Furlatt  
+ANA | Chris Wagner | AWAY | MIN | 2014-10-17 | Dennis LaRue | Eric Furlatt  
+BUF | Josh Gorges | AWAY | FLA | 2014-10-17 | Dan O'Halloran | Ghislain Hebert  
+FLA | Erik Gudbranson | HOME | BUF | 2014-10-17 | Dan O'Halloran | Ghislain Hebert  
+CBJ | Artem Anisimov | HOME | CGY | 2014-10-17 | Brian Pochmara | Francois St. Laurent  
+OTT | Kyle Turris | HOME | CBJ | 2014-10-18 | Graham Skilliter | Marc Joannette  
+OTT | Zack Smith | HOME | CBJ | 2014-10-18 | Graham Skilliter | Marc Joannette  
+TBL | Ondrej Palat | AWAY | VAN | 2014-10-18 | Kyle Rehman | Steve Kozari  
+DET | Henrik Zetterberg | AWAY | TOR | 2014-10-18 | Chris Rooney | Frederick L'Ecuyer  
+SJS | Justin Braun | HOME | NJD | 2014-10-18 | Kelly Sutherland | Justin St. Pierre  
+SJS | Joe Thornton | HOME | NJD | 2014-10-18 | Kelly Sutherland | Justin St. Pierre  
+SJS | Scott Hannan | HOME | NJD | 2014-10-18 | Kelly Sutherland | Justin St. Pierre  
+PIT | Sidney Crosby | HOME | NYI | 2014-10-18 | Dan O'Halloran | Brian Pochmara  
+NYI | Cory Conacher | AWAY | PIT | 2014-10-18 | Dan O'Halloran | Brian Pochmara  
+PIT | Kris Letang | HOME | NYI | 2014-10-18 | Dan O'Halloran | Brian Pochmara  
+PIT | Olli Maatta | HOME | NYI | 2014-10-18 | Dan O'Halloran | Brian Pochmara  
+BOS | David Krejci | AWAY | BUF | 2014-10-18 | Dan O'Rourke | Greg Kimmerly  
+BUF | Cody Hodgson | HOME | BOS | 2014-10-18 | Dan O'Rourke | Greg Kimmerly  
+BOS | Dennis Seidenberg | AWAY | BUF | 2014-10-18 | Dan O'Rourke | Greg Kimmerly  
+DAL | Trevor Daley | AWAY | PHI | 2014-10-18 | Paul Devorski | Gord Dwyer  
+NSH | Mattias Ekholm | HOME | CHI | 2014-10-18 | Jean Hebert | Brad Watson  
+NSH | Viktor Stalberg | HOME | CHI | 2014-10-18 | Jean Hebert | Brad Watson  
+NSH | Mike Ribeiro | HOME | CHI | 2014-10-18 | Jean Hebert | Brad Watson  
+STL | Jordan Leopold | HOME | ARI | 2014-10-18 | Dennis LaRue | Tom Kowal  
+STL | Patrik Berglund | HOME | ARI | 2014-10-18 | Dennis LaRue | Tom Kowal  
+COL | Tyson Barrie | AWAY | MTL | 2014-10-18 | Francis Charron | Kevin Pollock  
+COL | Jan Hejda | AWAY | MTL | 2014-10-18 | Francis Charron | Kevin Pollock  
+CGY | Joe Colborne | AWAY | WPG | 2014-10-19 | Dave Jackson | Darcy Burchell  
+CGY | Raphael Diaz | AWAY | WPG | 2014-10-19 | Dave Jackson | Darcy Burchell  
+STL | Vladimir Tarasenko | HOME | ANA | 2014-10-19 | Ian Walsh | Tom Kowal  
+NYR | Derick Brassard | AWAY | SJS | 2014-10-19 | Mike Leggo | Ghislain Hebert  
+NYR | Chris Kreider | HOME | NJD | 2014-10-21 | Brian Pochmara | Francois St. Laurent  
+TOR | Joffrey Lupul | HOME | NYI | 2014-10-21 | Wes McCauley | Jon McIsaac  
+ARI | Brandon McMillan | AWAY | NSH | 2014-10-21 | Francis Charron | Dan O'Rourke  
+NSH | Viktor Stalberg | HOME | ARI | 2014-10-21 | Francis Charron | Dan O'Rourke  
+ARI | Antoine Vermette | AWAY | NSH | 2014-10-21 | Francis Charron | Dan O'Rourke  
+CAR | Andrej Sekera | AWAY | WPG | 2014-10-21 | Gord Dwyer | Kyle Rehman  
+CAR | Jay Harrison | AWAY | WPG | 2014-10-21 | Gord Dwyer | Kyle Rehman  
+WPG | Bryan Little | HOME | CAR | 2014-10-21 | Gord Dwyer | Kyle Rehman  
+DAL | Trevor Daley | AWAY | VAN | 2014-10-21 | Tim Peel | Rob Martell  
+DAL | Brenden Dillon | AWAY | VAN | 2014-10-21 | Tim Peel | Rob Martell  
+VAN | Nick Bonino | HOME | DAL | 2014-10-21 | Tim Peel | Rob Martell  
+FLA | Sean Bergenheim | HOME | COL | 2014-10-21 | Ian Walsh | Brad Meier  
+BUF | Sam Reinhart | HOME | ANA | 2014-10-22 | Justin St. Pierre | Brad Meier  
+PHI | Chris VandeVelde | AWAY | PIT | 2014-10-22 | Wes McCauley | Mark Lemelin  
+PHI | Sean Couturier | AWAY | PIT | 2014-10-22 | Wes McCauley | Mark Lemelin  
+PHI | Nick Schultz | AWAY | PIT | 2014-10-22 | Wes McCauley | Mark Lemelin  
+VAN | Brad Richardson | HOME | STL | 2014-10-23 | Dan O'Rourke | Rob Martell  
+ARI | Keith Yandle | AWAY | MIN | 2014-10-23 | Francis Charron | Kevin Pollock  
+CAR | Justin Faulk | HOME | CGY | 2014-10-23 | Kelly Sutherland | Gord Dwyer  
+CGY | Matt Stajan | AWAY | CAR | 2014-10-23 | Kelly Sutherland | Gord Dwyer  
+BUF | Tyler Myers | AWAY | LAK | 2014-10-23 | Justin St. Pierre | Dennis LaRue  
+CBJ | Jared Boll | AWAY | SJS | 2014-10-23 | Brad Watson | Ian Walsh  
+SJS | Brent Burns | HOME | CBJ | 2014-10-23 | Brad Watson | Ian Walsh  
+DET | Jakub Kindl | AWAY | PIT | 2014-10-23 | Jean Hebert | Brian Pochmara  
+PIT | Marcel Goc | HOME | DET | 2014-10-23 | Jean Hebert | Brian Pochmara  
+VAN | Shawn Matthias | HOME | COL | 2014-10-24 | Kevin Pollock | Tom Chmielewski  
+CBJ | David Savard | HOME | ANA | 2014-10-24 | Brad Watson | Kyle Rehman  
+CBJ | Matt Calvert | HOME | ANA | 2014-10-24 | Brad Watson | Kyle Rehman  
+ANA | Ryan Getzlaf | AWAY | CBJ | 2014-10-24 | Brad Watson | Kyle Rehman  
+NJD | Adam Henrique | HOME | DAL | 2014-10-24 | Wes McCauley | Frederick L'Ecuyer  
+WPG | Mathieu Perreault | HOME | TBL | 2014-10-24 | Dave Jackson | Paul Devorski  
+TBL | Radko Gudas | AWAY | WPG | 2014-10-24 | Dave Jackson | Paul Devorski  
+NJD | Stephen Gionta | AWAY | OTT | 2014-10-25 | Wes McCauley | Gord Dwyer  
+NYI | Brian Strait | HOME | DAL | 2014-10-25 | Frederick L'Ecuyer | Greg Kimmerly  
+NYI | Casey Cizikas | HOME | DAL | 2014-10-25 | Frederick L'Ecuyer | Greg Kimmerly  
+NYI | Matt Martin | HOME | DAL | 2014-10-25 | Frederick L'Ecuyer | Greg Kimmerly  
+DET | Jonathan Ericsson | AWAY | PHI | 2014-10-25 | Francis Charron | Dan O'Rourke  
+DET | Andrej Nestrasil | AWAY | PHI | 2014-10-25 | Francis Charron | Dan O'Rourke  
+STL | Jay Bouwmeester | HOME | CHI | 2014-10-25 | Jean Hebert | Marc Joannette  
+CHI | Trevor van Riemsdyk | AWAY | STL | 2014-10-25 | Jean Hebert | Marc Joannette  
+PIT | Steve Downie | HOME | NSH | 2014-10-25 | Rob Martell | Francois St. Laurent  
+NSH | James Neal | AWAY | PIT | 2014-10-25 | Rob Martell | Francois St. Laurent  
+FLA | Jonathan Huberdeau | HOME | ARI | 2014-10-25 | Mike Leggo | Justin St. Pierre  
+FLA | Dmitry Kulikov | HOME | ARI | 2014-10-25 | Mike Leggo | Justin St. Pierre  
+ARI | Rob Klinkhammer | AWAY | FLA | 2014-10-25 | Mike Leggo | Justin St. Pierre  
+TOR | David Clarkson | HOME | BOS | 2014-10-25 | Chris Rooney | Brian Pochmara  
+BOS | Gregory Campbell | AWAY | TOR | 2014-10-25 | Chris Rooney | Brian Pochmara  
+CHI | Marcus Kruger | AWAY | OTT | 2014-10-26 | Eric Furlatt | Steve Kozari  
+OTT | Alex Chiasson | HOME | CHI | 2014-10-26 | Eric Furlatt | Steve Kozari  
+OTT | Chris Phillips | HOME | CHI | 2014-10-26 | Eric Furlatt | Steve Kozari  
+SJS | Matt Nieto | HOME | ANA | 2014-10-26 | Tim Peel | Trevor Hanson  
+ANA | Tim Jackman | AWAY | SJS | 2014-10-26 | Tim Peel | Trevor Hanson  
+WSH | Michael Latta | HOME | VAN | 2014-10-26 | Brad Watson | Ian Walsh  
+CBJ | Ryan Johansen | AWAY | LAK | 2014-10-26 | Dennis LaRue | Kevin Pollock  
+NYR | Kevin Klein | HOME | MIN | 2014-10-27 | Frederick L'Ecuyer | Gord Dwyer  
+MTL | Andrei Markov | HOME | EDM | 2014-10-27 | Brad Watson | Graham Skilliter  
+MTL | Alexei Emelin | HOME | CGY | 2014-10-28 | Tom Kowal | Brad Meier  
+MTL | Tom Gilbert | HOME | CGY | 2014-10-28 | Tom Kowal | Brad Meier  
+CGY | Joe Colborne | AWAY | MTL | 2014-10-28 | Tom Kowal | Brad Meier  
+MTL | Alexei Emelin | HOME | CGY | 2014-10-28 | Tom Kowal | Brad Meier  
+VAN | Brad Richardson | HOME | CAR | 2014-10-28 | Dennis LaRue | Brian Pochmara  
+VAN | Daniel Sedin | HOME | CAR | 2014-10-28 | Dennis LaRue | Brian Pochmara  
+LAK | Jordan Nolan | AWAY | PHI | 2014-10-28 | Dan O'Halloran | TJ Luxmore  
+CBJ | Ryan Murray | AWAY | OTT | 2014-10-28 | Paul Devorski | Justin St. Pierre  
+CBJ | David Savard | AWAY | OTT | 2014-10-28 | Paul Devorski | Justin St. Pierre  
+BUF | Andrej Meszaros | AWAY | TOR | 2014-10-28 | Gord Dwyer | Marc Joannette  
+ARI | B.J. Crombeen | AWAY | TBL | 2014-10-28 | Jean Hebert | Rob Martell  
+STL | Jori Lehtera | HOME | DAL | 2014-10-28 | Francois St. Laurent | Trevor Hanson  
+STL | Dmitrij Jaskin | HOME | DAL | 2014-10-28 | Francois St. Laurent | Trevor Hanson  
+COL | Tyson Barrie | AWAY | SJS | 2014-10-28 | Dave Jackson | Kyle Rehman  
+WPG | Blake Wheeler | HOME | NYI | 2014-10-28 | Kelly Sutherland | Steve Kozari  
+WPG | Paul Postma | HOME | NYI | 2014-10-28 | Kelly Sutherland | Steve Kozari  
+NSH | Eric Nystrom | HOME | EDM | 2014-10-29 | Brian Pochmara | Ian Walsh  
+EDM | Andrew Ference | AWAY | NSH | 2014-10-29 | Brian Pochmara | Ian Walsh  
+BOS | Reilly Smith | AWAY | BUF | 2014-10-30 | Frederick L'Ecuyer | Kevin Pollock  
+LAK | Tyler Toffoli | AWAY | PIT | 2014-10-30 | Greg Kimmerly | Steve Kozari  
+OTT | Zack Smith | HOME | CHI | 2014-10-30 | Dan O'Rourke | Graham Skilliter  
+CHI | Duncan Keith | AWAY | OTT | 2014-10-30 | Dan O'Rourke | Graham Skilliter  
+CHI | Bryan Bickell | AWAY | OTT | 2014-10-30 | Dan O'Rourke | Graham Skilliter  
+CHI | Marcus Kruger | AWAY | OTT | 2014-10-30 | Dan O'Rourke | Graham Skilliter  
+OTT | Patrick Wiercioch | HOME | CHI | 2014-10-30 | Dan O'Rourke | Graham Skilliter  
+PHI | Luke Schenn | AWAY | TBL | 2014-10-30 | Dan O'Halloran | Tim Peel  
+ARI | Antoine Vermette | AWAY | FLA | 2014-10-30 | Wes McCauley | Mark Lemelin  
+FLA | Scottie Upshall | HOME | ARI | 2014-10-30 | Wes McCauley | Mark Lemelin  
+COL | Gabriel Landeskog | AWAY | NYI | 2014-10-30 | Rob Martell | Tom Kowal  
+VAN | Derek Dorsett | HOME | MTL | 2014-10-30 | Brian Pochmara | Ian Walsh  
+CBJ | David Savard | AWAY | TOR | 2014-10-31 | Ghislain Hebert | Chris Lee  
+TOR | Roman Polak | HOME | CBJ | 2014-10-31 | Ghislain Hebert | Chris Lee  
+TOR | David Clarkson | HOME | CBJ | 2014-10-31 | Ghislain Hebert | Chris Lee  
+TOR | Matt Frattin | HOME | CBJ | 2014-10-31 | Ghislain Hebert | Chris Lee  
+LAK | Mike Richards | HOME | DET | 2014-10-31 | Paul Devorski | Kyle Rehman  
+LAK | Drew Doughty | HOME | DET | 2014-10-31 | Paul Devorski | Kyle Rehman  
+TBL | Alex Killorn | AWAY | WSH | 2014-11-01 | Wes McCauley | Mark Lemelin  
+TBL | Ondrej Palat | AWAY | WSH | 2014-11-01 | Wes McCauley | Mark Lemelin  
+VAN | Shawn Matthias | HOME | EDM | 2014-11-01 | Dennis LaRue | Francois St. Laurent  
+EDM | Jesse Joensuu | AWAY | VAN | 2014-11-01 | Dennis LaRue | Francois St. Laurent  
+VAN | Nick Bonino | HOME | EDM | 2014-11-01 | Dennis LaRue | Francois St. Laurent  
+PHI | Brayden Schenn | HOME | FLA | 2014-11-01 | Francis Charron | Tim Peel  
+FLA | Dylan Olsen | AWAY | PHI | 2014-11-01 | Francis Charron | Tim Peel  
+FLA | Jussi Jokinen | AWAY | PHI | 2014-11-01 | Francis Charron | Tim Peel  
+CBJ | Jack Johnson | AWAY | NJD | 2014-11-01 | Dan O'Rourke | Graham Skilliter  
+NJD | Travis Zajac | HOME | CBJ | 2014-11-01 | Dan O'Rourke | Graham Skilliter  
+CBJ | Adam Cracknell | AWAY | NJD | 2014-11-01 | Dan O'Rourke | Graham Skilliter  
+NJD | Marek Zidlicky | HOME | CBJ | 2014-11-01 | Dan O'Rourke | Graham Skilliter  
+NYR | Anthony Duclair | AWAY | WPG | 2014-11-01 | Kevin Pollock | TJ Luxmore  
+WPG | Jacob Trouba | HOME | NYR | 2014-11-01 | Kevin Pollock | TJ Luxmore  
+PIT | Sidney Crosby | HOME | BUF | 2014-11-01 | Ghislain Hebert | Brad Meier  
+BUF | Nicolas Deslauriers | AWAY | PIT | 2014-11-01 | Ghislain Hebert | Brad Meier  
+CAR | Jiri Tlusty | HOME | ARI | 2014-11-01 | Frederick L'Ecuyer | Marc Joannette  
+COL | Tyson Barrie | AWAY | STL | 2014-11-01 | Kelly Sutherland | Kyle Rehman  
+MIN | Nino Niederreiter | HOME | DAL | 2014-11-01 | Brad Watson | Rob Martell  
+TOR | Sam Carrick | HOME | CHI | 2014-11-01 | Dave Jackson | Greg Kimmerly  
+TOR | Tyler Bozak | HOME | CHI | 2014-11-01 | Dave Jackson | Greg Kimmerly  
+MTL | Travis Moen | HOME | CGY | 2014-11-02 | Dave Jackson | Jean Hebert  
+CGY | David Jones | AWAY | MTL | 2014-11-02 | Dave Jackson | Jean Hebert  
+MTL | Mike Weaver | HOME | CGY | 2014-11-02 | Dave Jackson | Jean Hebert  
+DET | Darren Helm | HOME | BUF | 2014-11-02 | Graham Skilliter | Chris Lee  
+BUF | Brian Gionta | AWAY | DET | 2014-11-02 | Graham Skilliter | Chris Lee  
+WSH | Karl Alzner | HOME | ARI | 2014-11-02 | Brad Meier | TJ Luxmore  
+ARI | Martin Erat | AWAY | WSH | 2014-11-02 | Brad Meier | TJ Luxmore  
+COL | Ryan O'Reilly | HOME | ANA | 2014-11-02 | Mike Leggo | Trevor Hanson  
+WPG | Jacob Trouba | HOME | CHI | 2014-11-02 | Brad Watson | Rob Martell  
+VAN | Shawn Matthias | HOME | NSH | 2014-11-02 | Tom Kowal | Francois St. Laurent  
+LAK | Justin Williams | HOME | CAR | 2014-11-02 | Francis Charron | Kevin Pollock  
+CAR | Brett Bellemore | AWAY | LAK | 2014-11-02 | Francis Charron | Kevin Pollock  
+CAR | Jay Harrison | AWAY | LAK | 2014-11-02 | Francis Charron | Kevin Pollock  
+STL | Barret Jackman | HOME | NYR | 2014-11-03 | Justin St. Pierre | Marc Joannette  
+STL | Steve Ott | HOME | NYR | 2014-11-03 | Justin St. Pierre | Marc Joannette  
+NYR | Kevin Hayes | AWAY | STL | 2014-11-03 | Justin St. Pierre | Marc Joannette  
+ARI | Brandon McMillan | AWAY | TOR | 2014-11-04 | Ian Walsh | Kyle Rehman  
+TOR | Morgan Rielly | HOME | ARI | 2014-11-04 | Ian Walsh | Kyle Rehman  
+CGY | Brandon Bollig | AWAY | WSH | 2014-11-04 | Dan O'Halloran | Mark Lemelin  
+CBJ | Brian Gibbons | HOME | CAR | 2014-11-04 | Greg Kimmerly | Tim Peel  
+CAR | Victor Rask | AWAY | CBJ | 2014-11-04 | Greg Kimmerly | Tim Peel  
+CBJ | David Savard | HOME | CAR | 2014-11-04 | Greg Kimmerly | Tim Peel  
+NJD | Dainius Zubrus | AWAY | STL | 2014-11-04 | Chris Lee | Kevin Pollock  
+MTL | Alexei Emelin | HOME | CHI | 2014-11-04 | Eric Furlatt | Brad Meier  
+CHI | Jonathan Toews | AWAY | MTL | 2014-11-04 | Eric Furlatt | Brad Meier  
+DET | Brendan Smith | AWAY | OTT | 2014-11-04 | Jean Hebert | Brad Watson  
+NSH | Colin Wilson | AWAY | WPG | 2014-11-04 | Gord Dwyer | Rob Martell  
+LAK | Jarret Stoll | HOME | DAL | 2014-11-04 | Dan O'Rourke | Brian Pochmara  
+LAK | Tanner Pearson | HOME | DAL | 2014-11-04 | Dan O'Rourke | Brian Pochmara  
+LAK | Alec Martinez | HOME | DAL | 2014-11-04 | Dan O'Rourke | Brian Pochmara  
+LAK | Jarret Stoll | HOME | DAL | 2014-11-04 | Dan O'Rourke | Brian Pochmara  
+NYI | Brock Nelson | HOME | ANA | 2014-11-05 | Dennis LaRue | Ghislain Hebert  
+ANA | Jakob Silfverberg | AWAY | NYI | 2014-11-05 | Dennis LaRue | Ghislain Hebert  
+MTL | David Desharnais | HOME | BUF | 2014-11-05 | Kelly Sutherland | TJ Luxmore  
+DET | Niklas Kronwall | AWAY | NYR | 2014-11-05 | Tim Peel | Steve Kozari  
+NYR | Martin St. Louis | HOME | DET | 2014-11-05 | Tim Peel | Steve Kozari  
+NYR | Martin St. Louis | HOME | DET | 2014-11-05 | Tim Peel | Steve Kozari  
+MIN | Mikael Granlund | AWAY | OTT | 2014-11-06 | Dave Jackson | Dan O'Halloran  
+EDM | Matt Hendricks | HOME | BOS | 2014-11-06 | Jean Hebert | Tom Kowal  
+BOS | David Krejci | AWAY | EDM | 2014-11-06 | Jean Hebert | Tom Kowal  
+EDM | Nikita Nikitin | HOME | BOS | 2014-11-06 | Jean Hebert | Tom Kowal  
+TBL | Eric Brewer | HOME | CGY | 2014-11-06 | Dan O'Rourke | Greg Kimmerly  
+CGY | Curtis Glencross | AWAY | TBL | 2014-11-06 | Dan O'Rourke | Greg Kimmerly  
+CGY | TJ Brodie | AWAY | TBL | 2014-11-06 | Dan O'Rourke | Greg Kimmerly  
+TBL | Brian Boyle | HOME | CGY | 2014-11-06 | Dan O'Rourke | Greg Kimmerly  
+NJD | Jaromir Jagr | AWAY | STL | 2014-11-06 | Frederick L'Ecuyer | Rob Martell  
+NJD | Dainius Zubrus | AWAY | STL | 2014-11-06 | Frederick L'Ecuyer | Rob Martell  
+STL | Paul Stastny | HOME | NJD | 2014-11-06 | Frederick L'Ecuyer | Rob Martell  
+NJD | Damien Brunner | AWAY | STL | 2014-11-06 | Frederick L'Ecuyer | Rob Martell  
+WPG | Michael Frolik | HOME | PIT | 2014-11-06 | Paul Devorski | Trevor Hanson  
+PIT | Nick Spaling | AWAY | WPG | 2014-11-06 | Paul Devorski | Trevor Hanson  
+NSH | Shea Weber | HOME | DAL | 2014-11-06 | Ian Walsh | Kyle Rehman  
+VAN | Christopher Tanev | HOME | SJS | 2014-11-06 | Mike Leggo | Francis Charron  
+VAN | Derek Dorsett | HOME | SJS | 2014-11-06 | Mike Leggo | Francis Charron  
+PHI | Vincent Lecavalier | HOME | FLA | 2014-11-06 | Brad Watson | Dean Morton  
+FLA | Derek MacKenzie | AWAY | PHI | 2014-11-06 | Brad Watson | Dean Morton  
+DET | Luke Glendening | AWAY | NJD | 2014-11-07 | Justin St. Pierre | Chris Lee  
+NJD | Marek Zidlicky | HOME | DET | 2014-11-07 | Justin St. Pierre | Chris Lee  
+NJD | Bryce Salvador | HOME | DET | 2014-11-07 | Justin St. Pierre | Chris Lee  
+WSH | Brooks Laich | HOME | CHI | 2014-11-07 | Frederick L'Ecuyer | Tim Peel  
+CHI | Marian Hossa | AWAY | WSH | 2014-11-07 | Frederick L'Ecuyer | Tim Peel  
+ARI | Connor Murphy | HOME | ANA | 2014-11-07 | Francis Charron | Brian Pochmara  
+CAR | Brett Bellemore | AWAY | CBJ | 2014-11-07 | Steve Kozari | Tom Chmielewski  
+CAR | Chris Terry | AWAY | CBJ | 2014-11-07 | Steve Kozari | Tom Chmielewski  
+NYR | Carl Hagelin | AWAY | TOR | 2014-11-08 | Justin St. Pierre | Kevin Pollock  
+NYI | Frans Nielsen | HOME | ARI | 2014-11-08 | Rob Martell | Eric Furlatt  
+ARI | B.J. Crombeen | AWAY | NYI | 2014-11-08 | Rob Martell | Eric Furlatt  
+VAN | Bo Horvat | HOME | LAK | 2014-11-08 | Gord Dwyer | Graham Skilliter  
+LAK | Jake Muzzin | AWAY | VAN | 2014-11-08 | Gord Dwyer | Graham Skilliter  
+MTL | Brendan Gallagher | HOME | MIN | 2014-11-08 | Wes McCauley | Kelly Sutherland  
+COL | Zach Redmond | AWAY | PHI | 2014-11-08 | Jean Hebert | Marc Joannette  
+CAR | Justin Faulk | AWAY | WSH | 2014-11-08 | Chris Rooney | Greg Kimmerly  
+DAL | Antoine Roussel | AWAY | SJS | 2014-11-08 | Dennis LaRue | Ghislain Hebert  
+SJS | Joe Pavelski | HOME | DAL | 2014-11-08 | Dennis LaRue | Ghislain Hebert  
+PIT | Evgeni Malkin | HOME | BUF | 2014-11-08 | Tom Kowal | Dean Morton  
+BUF | Mike Weber | AWAY | PIT | 2014-11-08 | Tom Kowal | Dean Morton  
+EDM | Jordan Eberle | AWAY | NYR | 2014-11-09 | Paul Devorski | Trevor Hanson  
+TOR | Peter Holland | HOME | OTT | 2014-11-09 | Jean Hebert | Francois St. Laurent  
+TOR | Leo Komarov | HOME | OTT | 2014-11-09 | Jean Hebert | Francois St. Laurent  
+TOR | Mike Santorelli | HOME | OTT | 2014-11-09 | Jean Hebert | Francois St. Laurent  
+VAN | Dan Hamhuis | HOME | ANA | 2014-11-09 | Graham Skilliter | Eric Furlatt  
+NJD | Mike Cammalleri | HOME | BOS | 2014-11-10 | Greg Kimmerly | Tom Kowal  
+CGY | Kris Russell | AWAY | CAR | 2014-11-10 | Paul Devorski | Kyle Rehman  
+MIN | Marco Scandella | AWAY | NJD | 2014-11-11 | Tim Peel | Trevor Hanson  
+NJD | Michael Ryder | HOME | MIN | 2014-11-11 | Tim Peel | Trevor Hanson  
+NJD | Jacob Josefson | HOME | MIN | 2014-11-11 | Tim Peel | Trevor Hanson  
+OTT | Chris Neil | AWAY | VAN | 2014-11-11 | Wes McCauley | Dean Morton  
+NYR | Derek Stepan | AWAY | PIT | 2014-11-11 | Brad Watson | Ian Walsh  
+NYR | Dan Girardi | AWAY | PIT | 2014-11-11 | Brad Watson | Ian Walsh  
+CBJ | Boone Jenner | AWAY | WSH | 2014-11-11 | Tom Kowal | Steve Kozari  
+FLA | Aaron Ekblad | AWAY | SJS | 2014-11-11 | Frederick L'Ecuyer | Rob Martell  
+TBL | Andrej Sustr | HOME | CHI | 2014-11-11 | Francis Charron | Justin St. Pierre  
+ARI | Oliver Ekman-Larsson | AWAY | DAL | 2014-11-11 | Graham Skilliter | Kevin Pollock  
+DAL | Jamie Benn | HOME | ARI | 2014-11-11 | Graham Skilliter | Kevin Pollock  
+ARI | Martin Erat | AWAY | DAL | 2014-11-11 | Graham Skilliter | Kevin Pollock  
+NYI | Frans Nielsen | HOME | COL | 2014-11-11 | Eric Furlatt | Brad Meier  
+COL | Cody McLeod | AWAY | NYI | 2014-11-11 | Eric Furlatt | Brad Meier  
+TOR | Cody Franson | HOME | BOS | 2014-11-12 | Ghislain Hebert | Brad Watson  
+BOS | Patrice Bergeron | AWAY | TOR | 2014-11-12 | Ghislain Hebert | Brad Watson  
+COL | Alex Tanguay | AWAY | NYR | 2014-11-13 | Dan O'Rourke | Rob Martell  
+MTL | Pierre-Alexandre Parenteau | HOME | BOS | 2014-11-13 | Dan O'Halloran | Eric Furlatt  
+BOS | Gregory Campbell | AWAY | MTL | 2014-11-13 | Dan O'Halloran | Eric Furlatt  
+SJS | Matt Nieto | AWAY | TBL | 2014-11-13 | Gord Dwyer | Francois St. Laurent  
+BUF | Tyler Myers | AWAY | MIN | 2014-11-13 | Paul Devorski | Steve Kozari  
+MIN | Jordan Schroeder | HOME | BUF | 2014-11-13 | Paul Devorski | Steve Kozari  
+ARI | Sam Gagner | AWAY | CGY | 2014-11-13 | Wes McCauley | Dean Morton  
+DAL | John Klingberg | AWAY | LAK | 2014-11-13 | Dave Jackson | Chris Lee  
+LAK | Justin Williams | HOME | DAL | 2014-11-13 | Dave Jackson | Chris Lee  
+WPG | Zach Bogosian | HOME | CAR | 2014-11-13 | Chris Rooney | Justin St. Pierre  
+CAR | Victor Rask | AWAY | WPG | 2014-11-13 | Chris Rooney | Justin St. Pierre  
+WPG | Mark Stuart | HOME | CAR | 2014-11-13 | Chris Rooney | Justin St. Pierre  
+PIT | Steve Downie | AWAY | TOR | 2014-11-14 | Dan O'Halloran | Brad Watson  
+PIT | Evgeni Malkin | AWAY | TOR | 2014-11-14 | Dan O'Halloran | Brad Watson  
+TOR | Mike Santorelli | HOME | PIT | 2014-11-14 | Dan O'Halloran | Brad Watson  
+NYI | John Tavares | HOME | FLA | 2014-11-14 | Gord Dwyer | Francois St. Laurent  
+FLA | Willie Mitchell | AWAY | NYI | 2014-11-14 | Gord Dwyer | Francois St. Laurent  
+VAN | Ryan Stanton | HOME | ARI | 2014-11-14 | Marc Joannette | Dean Morton  
+ANA | Hampus Lindholm | AWAY | LAK | 2014-11-15 | Wes McCauley | Frederick L'Ecuyer  
+OTT | Alex Chiasson | HOME | CGY | 2014-11-15 | Marc Joannette | Dean Morton  
+MTL | Tomas Plekanec | AWAY | PHI | 2014-11-15 | Dan O'Rourke | Dennis LaRue  
+MTL | Max Pacioretty | AWAY | PHI | 2014-11-15 | Dan O'Rourke | Dennis LaRue  
+NYI | Ryan Strome | AWAY | TBL | 2014-11-15 | Gord Dwyer | Francois St. Laurent  
+BOS | Adam McQuaid | AWAY | CAR | 2014-11-15 | Francis Charron | Eric Furlatt  
+NJD | Marek Zidlicky | HOME | COL | 2014-11-15 | Chris Rooney | Ghislain Hebert  
+PIT | Christian Ehrhoff | HOME | NYR | 2014-11-15 | Kelly Sutherland | Graham Skilliter  
+DAL | Shawn Horcoff | AWAY | MIN | 2014-11-15 | Mike Leggo | Kyle Rehman  
+MTL | Sergei Gonchar | HOME | DET | 2014-11-16 | Rob Martell | Eric Furlatt  
+DET | Justin Abdelkader | AWAY | MTL | 2014-11-16 | Rob Martell | Eric Furlatt  
+SJS | Joe Pavelski | HOME | CAR | 2014-11-16 | Greg Kimmerly | Kevin Pollock  
+CAR | Brad Malone | AWAY | SJS | 2014-11-16 | Greg Kimmerly | Kevin Pollock  
+DAL | John Klingberg | HOME | CHI | 2014-11-16 | Jean Hebert | Chris Lee  
+EDM | Ryan Nugent-Hopkins | HOME | ARI | 2014-11-16 | Tom Kowal | Brad Meier  
+WPG | Blake Wheeler | HOME | MIN | 2014-11-16 | Justin St. Pierre | Brad Watson  
+MIN | Nino Niederreiter | AWAY | WPG | 2014-11-16 | Justin St. Pierre | Brad Watson  
+MIN | Keith Ballard | AWAY | WPG | 2014-11-16 | Justin St. Pierre | Brad Watson  
+NYR | Dan Boyle | AWAY | TBL | 2014-11-17 | Francis Charron | Dennis LaRue  
+TBL | Brian Boyle | HOME | NYI | 2014-11-18 | Dennis LaRue | Dave Lewis  
+TBL | Ondrej Palat | HOME | NYI | 2014-11-18 | Dennis LaRue | Dave Lewis  
+LAK | Trevor Lewis | HOME | FLA | 2014-11-18 | Chris Rooney | Tom Kowal  
+LAK | Tanner Pearson | HOME | FLA | 2014-11-18 | Chris Rooney | Tom Kowal  
+LAK | Robyn Regehr | HOME | FLA | 2014-11-18 | Chris Rooney | Tom Kowal  
+DET | Kyle Quincey | HOME | CBJ | 2014-11-18 | Dave Jackson | Rob Martell  
+SJS | Adam Burish | HOME | BUF | 2014-11-18 | Dean Morton | Steve Kozari  
+BUF | Tyler Myers | AWAY | SJS | 2014-11-18 | Dean Morton | Steve Kozari  
+PIT | Evgeni Malkin | HOME | MTL | 2014-11-18 | Tim Peel | Kyle Rehman  
+NJD | Dainius Zubrus | AWAY | WPG | 2014-11-18 | Greg Kimmerly | Eric Furlatt  
+CAR | Justin Faulk | AWAY | DAL | 2014-11-18 | Dan O'Halloran | Jean Hebert  
+ANA | Kyle Palmieri | AWAY | CGY | 2014-11-18 | Graham Skilliter | Brad Meier  
+ANA | Jakob Silfverberg | AWAY | CGY | 2014-11-18 | Graham Skilliter | Brad Meier  
+WSH | Mike Green | HOME | ARI | 2014-11-18 | Frederick L'Ecuyer | Brad Watson  
+BOS | Daniel Paille | AWAY | STL | 2014-11-18 | Mike Leggo | Chris Lee  
+BOS | Chris Kelly | AWAY | STL | 2014-11-18 | Mike Leggo | Chris Lee  
+STL | Paul Stastny | HOME | BOS | 2014-11-18 | Mike Leggo | Chris Lee  
+PHI | Braydon Coburn | HOME | NYR | 2014-11-19 | Brian Pochmara | Francois St. Laurent  
+SJS | Justin Braun | HOME | FLA | 2014-11-20 | Chris Rooney | Tom Chmielewski  
+FLA | Jussi Jokinen | AWAY | SJS | 2014-11-20 | Chris Rooney | Tom Chmielewski  
+OTT | Kyle Turris | HOME | NSH | 2014-11-20 | Mike Leggo | Tim Peel  
+COL | Nick Holden | AWAY | WSH | 2014-11-20 | Dan O'Halloran | Jean Hebert  
+CHI | Jonathan Toews | HOME | CGY | 2014-11-20 | Gord Dwyer | Eric Furlatt  
+CHI | Niklas Hjalmarsson | HOME | CGY | 2014-11-20 | Gord Dwyer | Eric Furlatt  
+CAR | Jay McClement | AWAY | LAK | 2014-11-20 | Kelly Sutherland | Brad Watson  
+PHI | Pierre-Edouard Bellemare | HOME | MIN | 2014-11-20 | Dave Jackson | Ghislain Hebert  
+PIT | Kris Letang | HOME | NYI | 2014-11-21 | Dave Jackson | Marc Joannette  
+DET | Johan Franzen | AWAY | TOR | 2014-11-22 | Mike Leggo | Francois St. Laurent  
+DET | Gustav Nyquist | AWAY | TOR | 2014-11-22 | Mike Leggo | Francois St. Laurent  
+NJD | Marek Zidlicky | HOME | CGY | 2014-11-22 | Francis Charron | Dan O'Rourke  
+EDM | Jordan Eberle | HOME | CHI | 2014-11-22 | Chris Lee | Ian Walsh  
+EDM | Ryan Nugent-Hopkins | HOME | CHI | 2014-11-22 | Chris Lee | Ian Walsh  
+ARI | Shane Doan | AWAY | SJS | 2014-11-22 | Kelly Sutherland | Dan O'Halloran  
+ARI | Michael Stone | AWAY | SJS | 2014-11-22 | Kelly Sutherland | Dan O'Halloran  
+STL | David Backes | HOME | OTT | 2014-11-22 | Paul Devorski | Greg Kimmerly  
+MIN | Ryan Carter | AWAY | TBL | 2014-11-22 | Jean Hebert | Tom Kowal  
+PIT | Olli Maatta | HOME | NYI | 2014-11-22 | Justin St. Pierre | Dean Morton  
+PHI | Matt Read | HOME | CBJ | 2014-11-22 | Brad Meier | Kyle Rehman  
+PHI | Wayne Simmonds | HOME | CBJ | 2014-11-22 | Brad Meier | Kyle Rehman  
+BUF | Mike Weber | AWAY | WSH | 2014-11-22 | Brian Pochmara | Kevin Pollock  
+FLA | Dylan Olsen | AWAY | NSH | 2014-11-22 | Wes McCauley | Ghislain Hebert  
+LAK | Robyn Regehr | HOME | DAL | 2014-11-22 | Chris Rooney | Rob Martell  
+ANA | Mat Clark | AWAY | ARI | 2014-11-23 | Kelly Sutherland | Dan O'Halloran  
+NYR | Dan Girardi | HOME | MTL | 2014-11-23 | Mike Leggo | Frederick L'Ecuyer  
+OTT | Chris Neil | HOME | DET | 2014-11-24 | Kevin Pollock | Francois St. Laurent  
+OTT | Clarke MacArthur | HOME | DET | 2014-11-24 | Kevin Pollock | Francois St. Laurent  
+DET | Justin Abdelkader | AWAY | OTT | 2014-11-24 | Kevin Pollock | Francois St. Laurent  
+FLA | Jonathan Huberdeau | AWAY | MIN | 2014-11-24 | Ghislain Hebert | Tom Kowal  
+MIN | Keith Ballard | HOME | FLA | 2014-11-24 | Ghislain Hebert | Tom Kowal  
+BOS | Patrice Bergeron | AWAY | PIT | 2014-11-24 | Brad Meier | Kyle Rehman  
+EDM | Ryan Nugent-Hopkins | HOME | DAL | 2014-11-25 | Brad Watson | Dean Morton  
+EDM | Taylor Hall | HOME | DAL | 2014-11-25 | Brad Watson | Dean Morton  
+COL | Nathan MacKinnon | HOME | ARI | 2014-11-25 | Dennis LaRue | Gord Dwyer  
+TBL | Ondrej Palat | HOME | NYR | 2014-11-26 | Ghislain Hebert | Rob Martell  
+FLA | Jussi Jokinen | HOME | CAR | 2014-11-26 | Graham Skilliter | Marc Joannette  
+CAR | Alexander Semin | AWAY | FLA | 2014-11-26 | Graham Skilliter | Marc Joannette  
+PIT | Evgeni Malkin | AWAY | TOR | 2014-11-26 | Chris Rooney | Brad Meier  
+TOR | Stephane Robidas | HOME | PIT | 2014-11-26 | Chris Rooney | Brad Meier  
+TOR | Dion Phaneuf | HOME | PIT | 2014-11-26 | Chris Rooney | Brad Meier  
+CHI | Duncan Keith | AWAY | COL | 2014-11-26 | Dave Jackson | Dean Morton  
+WPG | Zach Bogosian | HOME | BUF | 2014-11-26 | Eric Furlatt | Darcy Burchell  
+BUF | Marcus Foligno | AWAY | WPG | 2014-11-26 | Eric Furlatt | Darcy Burchell  
+WPG | Mark Stuart | HOME | BUF | 2014-11-26 | Eric Furlatt | Darcy Burchell  
+EDM | Mark Arcobello | AWAY | NSH | 2014-11-27 | Graham Skilliter | Eric Furlatt  
+EDM | Teddy Purcell | AWAY | NSH | 2014-11-27 | Graham Skilliter | Eric Furlatt  
+NSH | Seth Jones | HOME | EDM | 2014-11-27 | Graham Skilliter | Eric Furlatt  
+NSH | Taylor Beck | HOME | EDM | 2014-11-27 | Graham Skilliter | Eric Furlatt  
+MIN | Marco Scandella | HOME | DAL | 2014-11-28 | Gord Dwyer | Marc Joannette  
+NYI | Matt Martin | AWAY | WSH | 2014-11-28 | Kelly Sutherland | Ian Walsh  
+NYI | Brock Nelson | AWAY | WSH | 2014-11-28 | Kelly Sutherland | Ian Walsh  
+BUF | Marcus Foligno | AWAY | MTL | 2014-11-28 | Brian Pochmara | Ghislain Hebert  
+BUF | Nikita Zadorov | AWAY | MTL | 2014-11-28 | Brian Pochmara | Ghislain Hebert  
+MTL | Sergei Gonchar | HOME | BUF | 2014-11-28 | Brian Pochmara | Ghislain Hebert  
+NJD | Martin Havlat | HOME | DET | 2014-11-28 | Paul Devorski | Mark Lemelin  
+DET | Johan Franzen | AWAY | NJD | 2014-11-28 | Paul Devorski | Mark Lemelin  
+FLA | Sean Bergenheim | AWAY | OTT | 2014-11-28 | Jean Hebert | Rob Martell  
+OTT | Patrick Wiercioch | HOME | FLA | 2014-11-28 | Jean Hebert | Rob Martell  
+SJS | John Scott | HOME | ANA | 2014-11-29 | Dennis LaRue | Dean Morton  
+ANA | Rene Bourque | AWAY | SJS | 2014-11-29 | Dennis LaRue | Dean Morton  
+SJS | Mike Brown | HOME | ANA | 2014-11-29 | Dennis LaRue | Dean Morton  
+ANA | Josh Manson | AWAY | SJS | 2014-11-29 | Dennis LaRue | Dean Morton  
+OTT | Milan Michalek | AWAY | TBL | 2014-11-29 | Rob Martell | Eric Furlatt  
+OTT | Clarke MacArthur | AWAY | TBL | 2014-11-29 | Rob Martell | Eric Furlatt  
+NJD | Mike Cammalleri | AWAY | NYI | 2014-11-29 | Chris Rooney | Frederick L'Ecuyer  
+NJD | Jaromir Jagr | AWAY | NYI | 2014-11-29 | Chris Rooney | Frederick L'Ecuyer  
+NYI | Ryan Strome | HOME | NJD | 2014-11-29 | Chris Rooney | Frederick L'Ecuyer  
+NJD | Damien Brunner | AWAY | NYI | 2014-11-29 | Chris Rooney | Frederick L'Ecuyer  
+NYI | Calvin de Haan | HOME | NJD | 2014-11-29 | Chris Rooney | Frederick L'Ecuyer  
+PIT | Evgeni Malkin | HOME | CAR | 2014-11-29 | Dan O'Rourke | Francois St. Laurent  
+PIT | Sidney Crosby | HOME | CAR | 2014-11-29 | Dan O'Rourke | Francois St. Laurent  
+CBJ | Ryan Johansen | AWAY | NSH | 2014-11-29 | Dan O'Halloran | Jean Hebert  
+NSH | Taylor Beck | HOME | CBJ | 2014-11-29 | Dan O'Halloran | Jean Hebert  
+STL | Chris Porter | HOME | MIN | 2014-11-29 | Graham Skilliter | Kevin Pollock  
+MIN | Mikael Granlund | AWAY | STL | 2014-11-29 | Graham Skilliter | Kevin Pollock  
+COL | Cody McLeod | AWAY | DAL | 2014-11-29 | Greg Kimmerly | Marc Joannette  
+ARI | Martin Erat | AWAY | CGY | 2014-11-29 | Chris Lee | Kyle Rehman  
+LAK | Robyn Regehr | HOME | CHI | 2014-11-29 | Mike Leggo | Tom Chmielewski  
+VAN | Shawn Matthias | HOME | DET | 2014-11-30 | Tim Peel | Tom Kowal  
+DET | Kyle Quincey | AWAY | VAN | 2014-11-30 | Tim Peel | Tom Kowal  
+VAN | Ryan Stanton | HOME | DET | 2014-11-30 | Tim Peel | Tom Kowal  
+CBJ | Matt Calvert | AWAY | FLA | 2014-12-01 | Eric Furlatt | Ian Walsh  
+ARI | Martin Erat | AWAY | EDM | 2014-12-01 | Dave Jackson | Justin St. Pierre  
+TBL | Cedric Paquette | HOME | NYR | 2014-12-01 | Brad Watson | Tom Kowal  
+NYR | Kevin Hayes | AWAY | TBL | 2014-12-01 | Brad Watson | Tom Kowal  
+NYR | Ryan McDonagh | AWAY | TBL | 2014-12-01 | Brad Watson | Tom Kowal  
+TBL | Valtteri Filppula | HOME | NYR | 2014-12-01 | Brad Watson | Tom Kowal  
+WSH | Jay Beagle | HOME | VAN | 2014-12-02 | Dan O'Halloran | Jean Hebert  
+NSH | Mike Ribeiro | HOME | CAR | 2014-12-02 | Brian Pochmara | Frederick L'Ecuyer  
+BUF | Brian Gionta | AWAY | TBL | 2014-12-02 | Francis Charron | Brad Watson  
+TOR | Richard Panik | HOME | DAL | 2014-12-02 | Kevin Pollock | Steve Kozari  
+DET | Kyle Quincey | AWAY | FLA | 2014-12-02 | Kelly Sutherland | Gord Dwyer  
+PIT | Evgeni Malkin | HOME | NJD | 2014-12-02 | Paul Devorski | Eric Furlatt  
+NJD | Jaromir Jagr | AWAY | PIT | 2014-12-02 | Paul Devorski | Eric Furlatt  
+ANA | Rene Bourque | AWAY | PHI | 2014-12-03 | Graham Skilliter | Brad Meier  
+PHI | Chris VandeVelde | HOME | ANA | 2014-12-03 | Graham Skilliter | Brad Meier  
+STL | Vladimir Tarasenko | HOME | CHI | 2014-12-03 | Chris Rooney | Dennis LaRue  
+TOR | Cody Franson | HOME | NJD | 2014-12-04 | Jean Hebert | Tim Peel  
+SJS | Matt Nieto | HOME | BOS | 2014-12-04 | Justin St. Pierre | Graham Skilliter  
+BOS | Carl Soderberg | AWAY | SJS | 2014-12-04 | Justin St. Pierre | Graham Skilliter  
+BOS | Dennis Seidenberg | AWAY | SJS | 2014-12-04 | Justin St. Pierre | Graham Skilliter  
+SJS | Joe Pavelski | HOME | BOS | 2014-12-04 | Justin St. Pierre | Graham Skilliter  
+OTT | Kyle Turris | HOME | NYI | 2014-12-04 | Ghislain Hebert | Brad Watson  
+OTT | Alex Chiasson | HOME | NYI | 2014-12-04 | Ghislain Hebert | Brad Watson  
+DET | Jonathan Ericsson | HOME | DAL | 2014-12-04 | Francis Charron | Dean Morton  
+BUF | Nikita Zadorov | AWAY | TBL | 2014-12-04 | Kelly Sutherland | Frederick L'Ecuyer  
+CBJ | Jordan Leopold | AWAY | FLA | 2014-12-04 | Paul Devorski | Gord Dwyer  
+CBJ | Boone Jenner | AWAY | FLA | 2014-12-04 | Paul Devorski | Gord Dwyer  
+CBJ | James Wisniewski | AWAY | FLA | 2014-12-04 | Paul Devorski | Gord Dwyer  
+NSH | Mike Ribeiro | AWAY | STL | 2014-12-04 | Wes McCauley | Dan O'Rourke  
+ARI | B.J. Crombeen | AWAY | LAK | 2014-12-04 | Brad Meier | Francois St. Laurent  
+MTL | P.K. Subban | HOME | CHI | 2014-12-05 | Dennis LaRue | Ghislain Hebert  
+ANA | Josh Manson | AWAY | MIN | 2014-12-05 | Chris Rooney | Rob Martell  
+WPG | Andrew Ladd | HOME | COL | 2014-12-05 | Mike Leggo | Brian Pochmara  
+LAK | Dustin Brown | AWAY | PHI | 2014-12-06 | Justin St. Pierre | Tom Kowal  
+LAK | Jarret Stoll | AWAY | PHI | 2014-12-06 | Justin St. Pierre | Tom Kowal  
+CGY | Mark Giordano | AWAY | SJS | 2014-12-06 | Mike Leggo | Kevin Pollock  
+CGY | Matt Stajan | AWAY | SJS | 2014-12-06 | Mike Leggo | Kevin Pollock  
+OTT | Erik Condra | AWAY | PIT | 2014-12-06 | Wes McCauley | Francis Charron  
+VAN | Kevin Bieksa | HOME | TOR | 2014-12-06 | Frederick L'Ecuyer | Eric Furlatt  
+TOR | David Clarkson | AWAY | VAN | 2014-12-06 | Frederick L'Ecuyer | Eric Furlatt  
+DET | Niklas Kronwall | AWAY | NYR | 2014-12-06 | Jean Hebert | Ian Walsh  
+WSH | Matt Niskanen | HOME | NJD | 2014-12-06 | Marc Joannette | Dean Morton  
+NJD | Dainius Zubrus | AWAY | WSH | 2014-12-06 | Marc Joannette | Dean Morton  
+CHI | Michal Rozsival | AWAY | NSH | 2014-12-06 | Dan O'Halloran | Kyle Rehman  
+NSH | Mike Ribeiro | HOME | CHI | 2014-12-06 | Dan O'Halloran | Kyle Rehman  
+NYI | Casey Cizikas | AWAY | STL | 2014-12-06 | Kelly Sutherland | Tim Peel  
+NYI | Ryan Strome | AWAY | STL | 2014-12-06 | Kelly Sutherland | Tim Peel  
+WPG | Mark Stuart | HOME | ANA | 2014-12-07 | Chris Rooney | Brian Pochmara  
+WPG | Ben Chiarot | HOME | ANA | 2014-12-07 | Chris Rooney | Brian Pochmara  
+WPG | Jacob Trouba | HOME | ANA | 2014-12-07 | Chris Rooney | Brian Pochmara  
+DET | Luke Glendening | HOME | CAR | 2014-12-07 | Marc Joannette | Kyle Rehman  
+FLA | Derek MacKenzie | AWAY | STL | 2014-12-08 | Dan O'Halloran | Dean Morton  
+CHI | Jonathan Toews | AWAY | NJD | 2014-12-09 | Wes McCauley | Tom Kowal  
+NJD | Jaromir Jagr | HOME | CHI | 2014-12-09 | Wes McCauley | Tom Kowal  
+VAN | Ryan Stanton | HOME | MTL | 2014-12-09 | Justin St. Pierre | Marc Joannette  
+WSH | Nicklas Backstrom | HOME | TBL | 2014-12-09 | Graham Skilliter | Francois St. Laurent  
+NYI | Ryan Strome | HOME | MIN | 2014-12-09 | Brad Watson | Brad Meier  
+NYI | Griffin Reinhart | HOME | MIN | 2014-12-09 | Brad Watson | Brad Meier  
+COL | Alex Tanguay | AWAY | NSH | 2014-12-09 | Mike Leggo | Ian Walsh  
+CBJ | Cam Atkinson | AWAY | PHI | 2014-12-09 | Dave Jackson | Greg Kimmerly  
+DET | Riley Sheahan | AWAY | TOR | 2014-12-10 | Chris Lee | Darcy Burchell  
+BOS | Zdeno Chara | AWAY | CHI | 2014-12-11 | Kelly Sutherland | Ghislain Hebert  
+CHI | Jonathan Toews | HOME | BOS | 2014-12-11 | Kelly Sutherland | Ghislain Hebert  
+PHI | Jakub Voracek | HOME | NJD | 2014-12-11 | Marc Joannette | Tom Kowal  
+TBL | Valtteri Filppula | HOME | CAR | 2014-12-11 | Dave Jackson | TJ Luxmore  
+TBL | Andrej Sustr | HOME | CAR | 2014-12-11 | Dave Jackson | TJ Luxmore  
+STL | Jori Lehtera | HOME | NYI | 2014-12-11 | Mike Leggo | Chris Lee  
+COL | Nick Holden | AWAY | WPG | 2014-12-11 | Frederick L'Ecuyer | Brad Meier  
+NSH | Ryan Ellis | HOME | ARI | 2014-12-11 | Tim Peel | Trevor Hanson  
+SJS | Melker Karlsson | HOME | MIN | 2014-12-11 | Gord Dwyer | Ian Walsh  
+BUF | Josh Gorges | AWAY | CGY | 2014-12-11 | Rob Martell | Eric Furlatt  
+CGY | TJ Brodie | HOME | BUF | 2014-12-11 | Rob Martell | Eric Furlatt  
+CGY | Dennis Wideman | AWAY | PIT | 2014-12-12 | Chris Rooney | Tom Chmielewski  
+CGY | Curtis Glencross | AWAY | PIT | 2014-12-12 | Chris Rooney | Tom Chmielewski  
+CGY | TJ Brodie | AWAY | PIT | 2014-12-12 | Chris Rooney | Tom Chmielewski  
+PIT | Patric Hornqvist | HOME | CGY | 2014-12-12 | Chris Rooney | Tom Chmielewski  
+LAK | Trevor Lewis | AWAY | MTL | 2014-12-12 | Greg Kimmerly | Steve Kozari  
+FLA | Aaron Ekblad | HOME | BUF | 2014-12-13 | Greg Kimmerly | Chris Lee  
+STL | Patrik Berglund | HOME | COL | 2014-12-13 | Brad Watson | Francois St. Laurent  
+SJS | Chris Tierney | HOME | NSH | 2014-12-13 | Frederick L'Ecuyer | Gord Dwyer  
+NSH | Seth Jones | AWAY | SJS | 2014-12-13 | Frederick L'Ecuyer | Gord Dwyer  
+DET | Niklas Kronwall | AWAY | TOR | 2014-12-13 | Dan O'Rourke | Dean Morton  
+DET | Jonathan Ericsson | AWAY | TOR | 2014-12-13 | Dan O'Rourke | Dean Morton  
+WSH | Mike Green | HOME | TBL | 2014-12-13 | Dave Jackson | Justin St. Pierre  
+WSH | John Carlson | HOME | TBL | 2014-12-13 | Dave Jackson | Justin St. Pierre  
+CBJ | Cam Atkinson | AWAY | PIT | 2014-12-13 | Chris Rooney | Francis Charron  
+PIT | Nick Spaling | HOME | CBJ | 2014-12-13 | Chris Rooney | Francis Charron  
+WPG | Blake Wheeler | HOME | ANA | 2014-12-13 | Kevin Pollock | Brad Meier  
+NJD | Marek Zidlicky | HOME | DAL | 2014-12-13 | Jean Hebert | Tim Peel  
+CAR | Riley Nash | AWAY | PHI | 2014-12-13 | Ghislain Hebert | Eric Furlatt  
+NYR | Jesper Fast | HOME | EDM | 2014-12-14 | Kevin Pollock | Kyle Rehman  
+NYR | Chris Kreider | HOME | EDM | 2014-12-14 | Kevin Pollock | Kyle Rehman  
+EDM | Ryan Nugent-Hopkins | AWAY | NYR | 2014-12-14 | Kevin Pollock | Kyle Rehman  
+TOR | Dion Phaneuf | HOME | LAK | 2014-12-14 | Ghislain Hebert | Tom Kowal  
+LAK | Jake Muzzin | AWAY | TOR | 2014-12-14 | Ghislain Hebert | Tom Kowal  
+CHI | Johnny Oduya | HOME | CGY | 2014-12-14 | Brian Pochmara | Steve Kozari  
+OTT | Kyle Turris | HOME | BUF | 2014-12-15 | Wes McCauley | Dean Morton  
+OTT | Eric Gryba | HOME | BUF | 2014-12-15 | Wes McCauley | Dean Morton  
+NJD | Michael Ryder | AWAY | NYI | 2014-12-15 | Dan O'Rourke | Greg Kimmerly  
+NJD | Jaromir Jagr | AWAY | NYI | 2014-12-15 | Dan O'Rourke | Greg Kimmerly  
+TBL | Andrej Sustr | HOME | PIT | 2014-12-15 | Kelly Sutherland | Chris Lee  
+MTL | Sergei Gonchar | HOME | CAR | 2014-12-16 | Francis Charron | Eric Furlatt  
+CAR | Jay Harrison | AWAY | MTL | 2014-12-16 | Francis Charron | Eric Furlatt  
+EDM | Jeff Petry | HOME | ARI | 2014-12-16 | Chris Rooney | Paul Devorski  
+CBJ | Ryan Johansen | AWAY | DET | 2014-12-16 | Wes McCauley | Kelly Sutherland  
+DET | Jonathan Ericsson | HOME | CBJ | 2014-12-16 | Wes McCauley | Kelly Sutherland  
+TBL | Brenden Morrow | HOME | PHI | 2014-12-16 | Brad Watson | Dean Morton  
+TBL | Valtteri Filppula | HOME | PHI | 2014-12-16 | Brad Watson | Dean Morton  
+PHI | Nick Schultz | AWAY | TBL | 2014-12-16 | Brad Watson | Dean Morton  
+FLA | Tomas Fleischmann | AWAY | WSH | 2014-12-16 | Tim Peel | Rob Martell  
+STL | Jay Bouwmeester | HOME | LAK | 2014-12-16 | Brian Pochmara | Ghislain Hebert  
+LAK | Robyn Regehr | AWAY | STL | 2014-12-16 | Brian Pochmara | Ghislain Hebert  
+NSH | Derek Roy | HOME | BOS | 2014-12-16 | Gord Dwyer | Marc Joannette  
+BOS | Milan Lucic | AWAY | NSH | 2014-12-16 | Gord Dwyer | Marc Joannette  
+BUF | Rasmus Ristolainen | AWAY | WPG | 2014-12-16 | Ian Walsh | Kyle Rehman  
+MIN | Brett Sutter | HOME | CHI | 2014-12-16 | Dan O'Rourke | Dan O'Halloran  
+MIN | Erik Haula | HOME | CHI | 2014-12-16 | Dan O'Rourke | Dan O'Halloran  
+CGY | Jiri Hudler | AWAY | NYR | 2014-12-16 | Graham Skilliter | Brad Meier  
+NYR | Carl Hagelin | HOME | CGY | 2014-12-16 | Graham Skilliter | Brad Meier  
+ANA | Tim Jackman | AWAY | TOR | 2014-12-16 | Greg Kimmerly | Steve Kozari  
+OTT | Eric Gryba | HOME | NJD | 2014-12-17 | Justin St. Pierre | Brad Watson  
+BOS | Patrice Bergeron | AWAY | MIN | 2014-12-17 | Brian Pochmara | Kyle Rehman  
+CAR | Eric Staal | AWAY | TOR | 2014-12-18 | Wes McCauley | Frederick L'Ecuyer  
+CBJ | David Savard | AWAY | WSH | 2014-12-18 | Gord Dwyer | Rob Martell  
+WSH | Joel Ward | HOME | CBJ | 2014-12-18 | Gord Dwyer | Rob Martell  
+MTL | Brandon Prust | HOME | ANA | 2014-12-18 | Francois St. Laurent | Darcy Burchell  
+STL | Maxim Lapierre | HOME | LAK | 2014-12-18 | Chris Rooney | Jean Hebert  
+OTT | Colin Greening | HOME | ANA | 2014-12-19 | Dean Morton | Francois St. Laurent  
+OTT | Alex Chiasson | HOME | ANA | 2014-12-19 | Dean Morton | Francois St. Laurent  
+DET | Niklas Kronwall | AWAY | NYI | 2014-12-19 | Francis Charron | Brad Watson  
+BOS | Dougie Hamilton | AWAY | WPG | 2014-12-19 | Dan O'Halloran | Tom Chmielewski  
+BOS | Craig Cunningham | AWAY | WPG | 2014-12-19 | Dan O'Halloran | Tom Chmielewski  
+DAL | Ales Hemsky | HOME | CGY | 2014-12-19 | Brian Pochmara | Ian Walsh  
+DAL | John Klingberg | HOME | CGY | 2014-12-19 | Brian Pochmara | Ian Walsh  
+TBL | Brian Boyle | HOME | NJD | 2014-12-19 | Mike Leggo | Ghislain Hebert  
+NJD | Tim Sestito | AWAY | TBL | 2014-12-19 | Mike Leggo | Ghislain Hebert  
+PHI | Nick Schultz | AWAY | TOR | 2014-12-20 | Dave Jackson | Eric Furlatt  
+OTT | Erik Karlsson | HOME | MTL | 2014-12-20 | Kelly Sutherland | Francois St. Laurent  
+MTL | Tom Gilbert | AWAY | OTT | 2014-12-20 | Kelly Sutherland | Francois St. Laurent  
+OTT | Eric Gryba | HOME | MTL | 2014-12-20 | Kelly Sutherland | Francois St. Laurent  
+WSH | Jay Beagle | HOME | NJD | 2014-12-20 | Mike Leggo | Gord Dwyer  
+NYR | Martin St. Louis | HOME | CAR | 2014-12-20 | Brad Watson | Rob Martell  
+CAR | Justin Faulk | AWAY | NYR | 2014-12-20 | Brad Watson | Rob Martell  
+CAR | Brad Malone | AWAY | NYR | 2014-12-20 | Brad Watson | Rob Martell  
+CBJ | Jack Johnson | HOME | CHI | 2014-12-20 | Chris Rooney | Tim Peel  
+CBJ | Alexander Wennberg | HOME | CHI | 2014-12-20 | Chris Rooney | Tim Peel  
+CBJ | Jeremy Morin | HOME | CHI | 2014-12-20 | Chris Rooney | Tim Peel  
+MIN | Mikko Koivu | AWAY | NSH | 2014-12-20 | Justin St. Pierre | Brad Meier  
+NSH | Mike Fisher | HOME | MIN | 2014-12-20 | Justin St. Pierre | Brad Meier  
+NSH | Mike Fisher | HOME | MIN | 2014-12-20 | Justin St. Pierre | Brad Meier  
+MIN | Charlie Coyle | AWAY | NSH | 2014-12-20 | Justin St. Pierre | Brad Meier  
+BUF | Andre Benoit | AWAY | COL | 2014-12-20 | Francis Charron | Dan O'Rourke  
+DAL | Jason Demers | AWAY | EDM | 2014-12-21 | Dan O'Halloran | Ian Walsh  
+ARI | Keith Yandle | AWAY | VAN | 2014-12-22 | Ian Walsh | Brad Meier  
+ARI | Oliver Ekman-Larsson | AWAY | VAN | 2014-12-22 | Ian Walsh | Brad Meier  
+ARI | Shane Doan | AWAY | VAN | 2014-12-22 | Ian Walsh | Brad Meier  
+ANA | Clayton Stoner | AWAY | SJS | 2014-12-22 | Jean Hebert | Greg Kimmerly  
+MTL | Tomas Plekanec | AWAY | NYI | 2014-12-23 | Francis Charron | Justin St. Pierre  
+WSH | Evgeny Kuznetsov | HOME | NYR | 2014-12-23 | Dan O'Rourke | Eric Furlatt  
+NYR | Matt Hunwick | AWAY | WSH | 2014-12-23 | Dan O'Rourke | Eric Furlatt  
+PHI | Andrew MacDonald | HOME | MIN | 2014-12-23 | Tim Peel | Chris Lee  
+TOR | Morgan Rielly | HOME | DAL | 2014-12-23 | Gord Dwyer | Rob Martell  
+TOR | Peter Holland | HOME | DAL | 2014-12-23 | Gord Dwyer | Rob Martell  
+DAL | Ryan Garbutt | AWAY | TOR | 2014-12-23 | Gord Dwyer | Rob Martell  
+BUF | Zemgus Girgensons | AWAY | DET | 2014-12-23 | Dan O'Halloran | Brian Pochmara  
+NSH | Olli Jokinen | HOME | BOS | 2014-12-23 | Chris Rooney | Ghislain Hebert  
+ARI | Martin Erat | AWAY | EDM | 2014-12-23 | Tom Kowal | Brad Meier  
+STL | Joakim Lindstrom | HOME | COL | 2014-12-23 | Dave Jackson | Tom Chmielewski  
+NJD | Eric Gelinas | HOME | CAR | 2014-12-23 | Paul Devorski | Kelly Sutherland  
+SJS | Andrew Desjardins | HOME | LAK | 2014-12-27 | Mike Leggo | Trevor Hanson  
+NJD | Dainius Zubrus | AWAY | NYR | 2014-12-27 | Wes McCauley | Chris Rooney  
+NYR | Lee Stempniak | HOME | NJD | 2014-12-27 | Wes McCauley | Chris Rooney  
+NYR | Rick Nash | HOME | NJD | 2014-12-27 | Wes McCauley | Chris Rooney  
+PIT | Brandon Sutter | AWAY | WSH | 2014-12-27 | Frederick L'Ecuyer | Ian Walsh  
+PIT | Kris Letang | AWAY | WSH | 2014-12-27 | Frederick L'Ecuyer | Ian Walsh  
+PIT | Kris Letang | AWAY | WSH | 2014-12-27 | Frederick L'Ecuyer | Ian Walsh  
+DAL | Jason Spezza | AWAY | STL | 2014-12-27 | Francis Charron | Tim Peel  
+STL | Vladimir Tarasenko | HOME | DAL | 2014-12-27 | Francis Charron | Tim Peel  
+STL | Paul Stastny | HOME | DAL | 2014-12-27 | Francis Charron | Tim Peel  
+DAL | Antoine Roussel | AWAY | STL | 2014-12-27 | Francis Charron | Tim Peel  
+CHI | Johnny Oduya | AWAY | COL | 2014-12-27 | Brad Watson | Chris Lee  
+DET | Niklas Kronwall | AWAY | OTT | 2014-12-27 | Ghislain Hebert | Eric Furlatt  
+FLA | Jonathan Huberdeau | AWAY | TOR | 2014-12-28 | Dan O'Rourke | Jean Hebert  
+TOR | Cody Franson | HOME | FLA | 2014-12-28 | Dan O'Rourke | Jean Hebert  
+VAN | Kevin Bieksa | HOME | ANA | 2014-12-28 | Mike Leggo | Dave Jackson  
+VAN | Nick Bonino | HOME | ANA | 2014-12-28 | Mike Leggo | Dave Jackson  
+BOS | Brad Marchand | AWAY | DET | 2014-12-29 | Marc Joannette | Ian Walsh  
+DET | Brian Lashoff | HOME | BOS | 2014-12-29 | Marc Joannette | Ian Walsh  
+PHI | Scott Laughton | HOME | ARI | 2014-12-29 | Rob Martell | Steve Kozari  
+NYI | Anders Lee | AWAY | WSH | 2014-12-29 | Chris Rooney | Greg Kimmerly  
+NYI | John Tavares | AWAY | WSH | 2014-12-29 | Chris Rooney | Greg Kimmerly  
+OTT | Colin Greening | HOME | BUF | 2014-12-29 | Paul Devorski | Graham Skilliter  
+OTT | Chris Phillips | HOME | BUF | 2014-12-29 | Paul Devorski | Graham Skilliter  
+OTT | David Legwand | HOME | BUF | 2014-12-29 | Paul Devorski | Graham Skilliter  
+BUF | Chris Stewart | AWAY | OTT | 2014-12-29 | Paul Devorski | Graham Skilliter  
+OTT | David Legwand | HOME | BUF | 2014-12-29 | Paul Devorski | Graham Skilliter  
+MIN | Nino Niederreiter | AWAY | WPG | 2014-12-29 | Ghislain Hebert | Tom Kowal  
+NSH | Colin Wilson | HOME | CHI | 2014-12-29 | Justin St. Pierre | Kevin Pollock  
+CHI | Johnny Oduya | AWAY | NSH | 2014-12-29 | Justin St. Pierre | Kevin Pollock  
+DAL | Jason Demers | AWAY | NYR | 2014-12-29 | Brian Pochmara | Kyle Rehman  
+LAK | Dwight King | HOME | EDM | 2014-12-30 | Eric Furlatt | Dean Morton  
+EDM | Leon Draisaitl | AWAY | LAK | 2014-12-30 | Eric Furlatt | Dean Morton  
+MTL | Alexei Emelin | HOME | FLA | 2014-12-30 | Kelly Sutherland | Tim Peel  
+NSH | Mike Ribeiro | AWAY | STL | 2014-12-30 | Dan O'Rourke | Justin St. Pierre  
+STL | Barret Jackman | HOME | NSH | 2014-12-30 | Dan O'Rourke | Justin St. Pierre  
+NYR | Derick Brassard | HOME | FLA | 2014-12-31 | Marc Joannette | Ian Walsh  
+EDM | Keith Aulie | HOME | CGY | 2014-12-31 | Francis Charron | Eric Furlatt  
+CGY | Joe Colborne | AWAY | EDM | 2014-12-31 | Francis Charron | Eric Furlatt  
+CAR | Elias Lindholm | AWAY | PIT | 2014-12-31 | Graham Skilliter | Tom Kowal  
+CAR | Jay McClement | AWAY | PIT | 2014-12-31 | Graham Skilliter | Tom Kowal  
+CAR | Brad Malone | AWAY | PIT | 2014-12-31 | Graham Skilliter | Tom Kowal  
+CBJ | Dalton Prout | AWAY | MIN | 2014-12-31 | Dan O'Halloran | Frederick L'Ecuyer  
+NJD | Jaromir Jagr | HOME | DET | 2014-12-31 | Gord Dwyer | Brad Meier  
+DET | Jonathan Ericsson | AWAY | NJD | 2014-12-31 | Gord Dwyer | Brad Meier  
+NJD | Dainius Zubrus | HOME | DET | 2014-12-31 | Gord Dwyer | Brad Meier  
+DET | Xavier Ouellet | AWAY | NJD | 2014-12-31 | Gord Dwyer | Brad Meier  
+DET | Tomas Jurco | AWAY | NJD | 2014-12-31 | Gord Dwyer | Brad Meier  
+ANA | Emerson Etem | AWAY | SJS | 2014-12-31 | Steve Kozari | Dave Lewis  
+ANA | Sami Vatanen | AWAY | SJS | 2014-12-31 | Steve Kozari | Dave Lewis  
+PHI | Jakub Voracek | HOME | COL | 2014-12-31 | Chris Rooney | Kyle Rehman  
+TBL | Alex Killorn | HOME | BUF | 2014-12-31 | Greg Kimmerly | Chris Lee  
+CHI | Jonathan Toews | AWAY | WSH | 2015-01-01 | Kelly Sutherland | Francois St. Laurent  
+VAN | Ryan Stanton | HOME | LAK | 2015-01-01 | Francis Charron | Brad Watson  
+CAR | Jiri Tlusty | AWAY | PHI | 2015-01-02 | Marc Joannette | Ian Walsh  
+COL | Nathan MacKinnon | AWAY | EDM | 2015-01-02 | Steve Kozari | Dave Lewis  
+COL | Alex Tanguay | AWAY | EDM | 2015-01-02 | Steve Kozari | Dave Lewis  
+NJD | Marek Zidlicky | HOME | MTL | 2015-01-02 | Dave Jackson | Kyle Rehman  
+NJD | Jaromir Jagr | HOME | MTL | 2015-01-02 | Dave Jackson | Kyle Rehman  
+BUF | Cody McCormick | AWAY | NYR | 2015-01-03 | Chris Rooney | Kyle Rehman  
+WPG | Jay Harrison | HOME | TOR | 2015-01-03 | Graham Skilliter | Chris Lee  
+MIN | Jonas Brodin | HOME | DAL | 2015-01-03 | Kelly Sutherland | Justin St. Pierre  
+CBJ | Dalton Prout | HOME | ARI | 2015-01-03 | Ghislain Hebert | Kevin Pollock  
+CBJ | Alexander Wennberg | HOME | ARI | 2015-01-03 | Ghislain Hebert | Kevin Pollock  
+DET | Jonathan Ericsson | AWAY | VAN | 2015-01-03 | Frederick L'Ecuyer | Brad Watson  
+DET | Brendan Smith | AWAY | VAN | 2015-01-03 | Frederick L'Ecuyer | Brad Watson  
+VAN | Ryan Stanton | HOME | DET | 2015-01-03 | Frederick L'Ecuyer | Brad Watson  
+VAN | Daniel Sedin | HOME | DET | 2015-01-03 | Frederick L'Ecuyer | Brad Watson  
+DET | Danny DeKeyser | AWAY | VAN | 2015-01-03 | Frederick L'Ecuyer | Brad Watson  
+BOS | Patrice Bergeron | AWAY | OTT | 2015-01-03 | Wes McCauley | Dean Morton  
+STL | Jori Lehtera | HOME | SJS | 2015-01-03 | Francis Charron | Steve Kozari  
+STL | Jaden Schwartz | HOME | SJS | 2015-01-03 | Francis Charron | Steve Kozari  
+OTT | Clarke MacArthur | AWAY | TBL | 2015-01-04 | Chris Rooney | Eric Furlatt  
+TBL | Matthew Carle | HOME | OTT | 2015-01-04 | Chris Rooney | Eric Furlatt  
+OTT | Cody Ceci | AWAY | TBL | 2015-01-04 | Chris Rooney | Eric Furlatt  
+OTT | Alex Chiasson | AWAY | TBL | 2015-01-04 | Chris Rooney | Eric Furlatt  
+TBL | Valtteri Filppula | HOME | OTT | 2015-01-04 | Chris Rooney | Eric Furlatt  
+OTT | Erik Karlsson | AWAY | TBL | 2015-01-04 | Chris Rooney | Eric Furlatt  
+BOS | Zdeno Chara | AWAY | CAR | 2015-01-04 | Paul Devorski | Francois St. Laurent  
+CBJ | Ryan Johansen | HOME | COL | 2015-01-04 | Jean Hebert | Tim Peel  
+EDM | Andrew Ference | AWAY | NYI | 2015-01-04 | Dan O'Rourke | Gord Dwyer  
+NYI | Anders Lee | HOME | EDM | 2015-01-04 | Dan O'Rourke | Gord Dwyer  
+EDM | Andrew Ference | AWAY | NYI | 2015-01-04 | Dan O'Rourke | Gord Dwyer  
+FLA | Dave Bolland | AWAY | WSH | 2015-01-04 | Rob Martell | Dean Morton  
+SJS | Tye McGinn | AWAY | WPG | 2015-01-05 | Brian Pochmara | Frederick L'Ecuyer  
+SJS | Brent Burns | AWAY | WPG | 2015-01-05 | Brian Pochmara | Frederick L'Ecuyer  
+WPG | Michael Frolik | HOME | SJS | 2015-01-05 | Brian Pochmara | Frederick L'Ecuyer  
+OTT | Clarke MacArthur | AWAY | PHI | 2015-01-06 | Francis Charron | Greg Kimmerly  
+MTL | P.K. Subban | AWAY | TBL | 2015-01-06 | Chris Rooney | Dean Morton  
+MTL | David Desharnais | AWAY | TBL | 2015-01-06 | Chris Rooney | Dean Morton  
+MIN | Justin Falk | AWAY | SJS | 2015-01-06 | Dan O'Rourke | Brian Pochmara  
+MIN | Thomas Vanek | AWAY | SJS | 2015-01-06 | Dan O'Rourke | Brian Pochmara  
+COL | Nathan MacKinnon | HOME | CHI | 2015-01-06 | Justin St. Pierre | Tim Peel  
+DAL | Antoine Roussel | HOME | CBJ | 2015-01-06 | Brad Watson | Tom Chmielewski  
+CBJ | Fedor Tyutin | AWAY | DAL | 2015-01-06 | Brad Watson | Tom Chmielewski  
+CBJ | Fedor Tyutin | AWAY | DAL | 2015-01-06 | Brad Watson | Tom Chmielewski  
+STL | Jaden Schwartz | HOME | ARI | 2015-01-06 | Mike Leggo | Jean Hebert  
+ARI | Kyle Chipchura | AWAY | STL | 2015-01-06 | Mike Leggo | Jean Hebert  
+EDM | Teddy Purcell | HOME | DET | 2015-01-06 | Wes McCauley | Gord Dwyer  
+DET | Johan Franzen | AWAY | EDM | 2015-01-06 | Wes McCauley | Gord Dwyer  
+VAN | Brad Richardson | HOME | NYI | 2015-01-06 | Dan O'Halloran | Francois St. Laurent  
+DET | Justin Abdelkader | HOME | CGY | 2015-01-07 | Wes McCauley | Trevor Hanson  
+DET | Stephen Weiss | HOME | CGY | 2015-01-07 | Wes McCauley | Trevor Hanson  
+CGY | Josh Jooris | AWAY | DET | 2015-01-07 | Wes McCauley | Trevor Hanson  
+CGY | Joe Colborne | AWAY | DET | 2015-01-07 | Wes McCauley | Trevor Hanson  
+WSH | Joel Ward | HOME | TOR | 2015-01-07 | Chris Rooney | Kevin Pollock  
+NYR | Derick Brassard | HOME | ANA | 2015-01-07 | Kelly Sutherland | Jean Hebert  
+NYR | Ryan McDonagh | HOME | ANA | 2015-01-07 | Kelly Sutherland | Jean Hebert  
+BOS | Patrice Bergeron | AWAY | PIT | 2015-01-07 | Francis Charron | Chris Lee  
+NJD | Michael Ryder | HOME | BOS | 2015-01-08 | Greg Kimmerly | Brad Watson  
+DAL | Ales Hemsky | AWAY | NSH | 2015-01-08 | Dan O'Rourke | Paul Devorski  
+CHI | Johnny Oduya | AWAY | MIN | 2015-01-08 | Brian Pochmara | Rob Martell  
+OTT | Jared Cowen | HOME | COL | 2015-01-08 | Dan O'Halloran | Kyle Rehman  
+COL | Erik Johnson | AWAY | OTT | 2015-01-08 | Dan O'Halloran | Kyle Rehman  
+COL | Tyson Barrie | AWAY | OTT | 2015-01-08 | Dan O'Halloran | Kyle Rehman  
+WPG | Ben Chiarot | HOME | ARI | 2015-01-08 | Gord Dwyer | Steve Kozari  
+FLA | Nick Bjugstad | AWAY | VAN | 2015-01-08 | Brad Meier | Francois St. Laurent  
+FLA | Nick Bjugstad | AWAY | VAN | 2015-01-08 | Brad Meier | Francois St. Laurent  
+LAK | Alec Martinez | AWAY | NYR | 2015-01-08 | Kelly Sutherland | Ian Walsh  
+NYR | Dominic Moore | HOME | LAK | 2015-01-08 | Kelly Sutherland | Ian Walsh  
+WSH | Matt Niskanen | HOME | PHI | 2015-01-08 | Ghislain Hebert | Chris Lee  
+NJD | Dainius Zubrus | AWAY | NYI | 2015-01-09 | Ghislain Hebert | Brad Watson  
+NJD | Dainius Zubrus | AWAY | NYI | 2015-01-09 | Ghislain Hebert | Brad Watson  
+CHI | Bryan Bickell | AWAY | EDM | 2015-01-09 | Wes McCauley | Francois St. Laurent  
+DAL | Alex Goligoski | HOME | COL | 2015-01-10 | Justin St. Pierre | Gord Dwyer  
+COL | Alex Tanguay | AWAY | DAL | 2015-01-10 | Justin St. Pierre | Gord Dwyer  
+MTL | Alexei Emelin | AWAY | PIT | 2015-01-10 | Marc Joannette | Eric Furlatt  
+PHI | Vincent Lecavalier | HOME | BOS | 2015-01-10 | Chris Rooney | TJ Luxmore  
+PHI | Mark Streit | HOME | BOS | 2015-01-10 | Chris Rooney | TJ Luxmore  
+NYI | Brian Strait | HOME | CBJ | 2015-01-10 | Brian Pochmara | Graham Skilliter  
+VAN | Kevin Bieksa | HOME | CGY | 2015-01-10 | Mike Leggo | Tom Kowal  
+VAN | Luca Sbisa | HOME | CGY | 2015-01-10 | Mike Leggo | Tom Kowal  
+WPG | Dustin Byfuglien | HOME | LAK | 2015-01-10 | Kelly Sutherland | Kyle Rehman  
+LAK | Marian Gaborik | AWAY | WPG | 2015-01-10 | Kelly Sutherland | Kyle Rehman  
+LAK | Jarret Stoll | AWAY | WPG | 2015-01-10 | Kelly Sutherland | Kyle Rehman  
+ANA | Andrew Cogliano | AWAY | WPG | 2015-01-11 | Ian Walsh | Brad Meier  
+CHI | Johnny Oduya | AWAY | MIN | 2015-01-11 | Rob Martell | Kevin Pollock  
+LAK | Matt Greene | AWAY | TOR | 2015-01-12 | Dave Jackson | Marc Joannette  
+TBL | Matthew Carle | HOME | PHI | 2015-01-12 | Ghislain Hebert | Tom Kowal  
+PHI | Mark Streit | AWAY | TBL | 2015-01-12 | Ghislain Hebert | Tom Kowal  
+PHI | Wayne Simmonds | AWAY | TBL | 2015-01-12 | Ghislain Hebert | Tom Kowal  
+BOS | Carl Soderberg | AWAY | TBL | 2015-01-13 | Wes McCauley | Jean Hebert  
+COL | John Mitchell | HOME | CAR | 2015-01-13 | Dan O'Halloran | Rob Martell  
+EDM | Rob Klinkhammer | AWAY | STL | 2015-01-13 | Greg Kimmerly | Ian Walsh  
+NSH | James Neal | AWAY | VAN | 2015-01-13 | Chris Rooney | Gord Dwyer  
+VAN | Kevin Bieksa | HOME | NSH | 2015-01-13 | Chris Rooney | Gord Dwyer  
+FLA | Nick Bjugstad | AWAY | WPG | 2015-01-13 | Francis Charron | Chris Lee  
+DAL | Trevor Daley | AWAY | OTT | 2015-01-13 | Brad Meier | Trevor Hanson  
+SJS | Tommy Wingels | HOME | ARI | 2015-01-13 | Dave Jackson | Marc Joannette  
+ARI | Sam Gagner | AWAY | SJS | 2015-01-13 | Dave Jackson | Marc Joannette  
+SJS | Matt Irwin | HOME | ARI | 2015-01-13 | Dave Jackson | Marc Joannette  
+BUF | Matt Ellis | AWAY | DET | 2015-01-13 | Justin St. Pierre | Eric Furlatt  
+TOR | Richard Panik | HOME | ANA | 2015-01-14 | Brad Watson | Kyle Rehman  
+ANA | Ryan Kesler | AWAY | TOR | 2015-01-14 | Brad Watson | Kyle Rehman  
+CBJ | Nick Foligno | AWAY | MTL | 2015-01-14 | Frederick L'Ecuyer | Tom Kowal  
+CBJ | Jack Johnson | AWAY | MTL | 2015-01-14 | Frederick L'Ecuyer | Tom Kowal  
+NJD | Jon Merrill | HOME | LAK | 2015-01-14 | Brian Pochmara | Graham Skilliter  
+PHI | Jakub Voracek | AWAY | WSH | 2015-01-14 | Mike Leggo | Jean Hebert  
+WSH | Nicklas Backstrom | HOME | PHI | 2015-01-14 | Mike Leggo | Jean Hebert  
+OTT | Eric Gryba | HOME | MTL | 2015-01-15 | Francis Charron | Dan O'Rourke  
+OTT | Cody Ceci | HOME | MTL | 2015-01-15 | Francis Charron | Dan O'Rourke  
+FLA | Sean Bergenheim | HOME | COL | 2015-01-15 | Chris Rooney | Eric Furlatt  
+STL | Alexander Steen | HOME | DET | 2015-01-15 | Frederick L'Ecuyer | Gord Dwyer  
+DET | Henrik Zetterberg | AWAY | STL | 2015-01-15 | Frederick L'Ecuyer | Gord Dwyer  
+WPG | Dustin Byfuglien | HOME | DAL | 2015-01-15 | Marc Joannette | Ian Walsh  
+WPG | Toby Enstrom | HOME | DAL | 2015-01-15 | Marc Joannette | Ian Walsh  
+WPG | Mark Stuart | HOME | DAL | 2015-01-15 | Marc Joannette | Ian Walsh  
+PIT | Nick Spaling | HOME | NYI | 2015-01-16 | Dan O'Rourke | Jean Hebert  
+PIT | Scott Harrington | HOME | NYI | 2015-01-16 | Dan O'Rourke | Jean Hebert  
+WSH | Mike Green | HOME | NSH | 2015-01-16 | Greg Kimmerly | Ian Walsh  
+WPG | Dustin Byfuglien | HOME | CHI | 2015-01-16 | Ghislain Hebert | Tom Kowal  
+NYI | Travis Hamonic | HOME | MTL | 2015-01-17 | Wes McCauley | Kyle Rehman  
+MTL | Manny Malhotra | AWAY | NYI | 2015-01-17 | Wes McCauley | Kyle Rehman  
+ANA | Cam Fowler | AWAY | LAK | 2015-01-17 | Tim Peel | Rob Martell  
+SJS | Matt Tennyson | HOME | CGY | 2015-01-17 | Graham Skilliter | Francois St. Laurent  
+NSH | Taylor Beck | HOME | DET | 2015-01-17 | Chris Lee | Kevin Pollock  
+COL | Jan Hejda | AWAY | TBL | 2015-01-17 | Frederick L'Ecuyer | Gord Dwyer  
+TBL | Steven Stamkos | HOME | COL | 2015-01-17 | Frederick L'Ecuyer | Gord Dwyer  
+BOS | Dougie Hamilton | AWAY | CBJ | 2015-01-17 | Francis Charron | Dave Jackson  
+CBJ | Nick Foligno | HOME | BOS | 2015-01-17 | Francis Charron | Dave Jackson  
+EDM | Taylor Hall | AWAY | FLA | 2015-01-17 | Kelly Sutherland | Justin St. Pierre  
+TOR | Richard Panik | HOME | STL | 2015-01-17 | Dan O'Halloran | TJ Luxmore  
+ARI | Martin Erat | AWAY | MIN | 2015-01-17 | Ghislain Hebert | Brad Watson  
+BUF | Philip Varone | AWAY | PHI | 2015-01-17 | Mike Leggo | Steve Kozari  
+NYR | Martin St. Louis | AWAY | PIT | 2015-01-18 | Brian Pochmara | Eric Furlatt  
+DET | Jonathan Ericsson | HOME | BUF | 2015-01-18 | Chris Lee | Steve Kozari  
+DAL | Ryan Garbutt | HOME | CHI | 2015-01-18 | Francis Charron | Dan O'Halloran  
+FLA | Dave Bolland | AWAY | VAN | 2015-01-19 | Paul Devorski | Dave Lewis  
+STL | T.J. Oshie | HOME | COL | 2015-01-19 | Ghislain Hebert | Eric Furlatt  
+PHI | Sean Couturier | HOME | NYI | 2015-01-19 | Kelly Sutherland | Kyle Rehman  
+PHI | Jakub Voracek | HOME | NYI | 2015-01-19 | Kelly Sutherland | Kyle Rehman  
+CBJ | Dalton Prout | AWAY | MIN | 2015-01-19 | Mike Leggo | Chris Rooney  
+MIN | Erik Haula | HOME | CBJ | 2015-01-19 | Mike Leggo | Chris Rooney  
+SJS | Brent Burns | HOME | NJD | 2015-01-19 | Tim Peel | Darcy Burchell  
+NJD | Jon Merrill | AWAY | SJS | 2015-01-19 | Tim Peel | Darcy Burchell  
+MTL | Andrei Markov | AWAY | NSH | 2015-01-20 | Marc Joannette | Jon McIsaac  
+DET | Brendan Smith | AWAY | MIN | 2015-01-20 | Francis Charron | Brad Watson  
+MIN | Justin Fontaine | HOME | DET | 2015-01-20 | Francis Charron | Brad Watson  
+TBL | Steven Stamkos | AWAY | VAN | 2015-01-20 | Paul Devorski | Dan O'Halloran  
+TBL | Cedric Paquette | AWAY | VAN | 2015-01-20 | Paul Devorski | Dan O'Halloran  
+CHI | Marcus Kruger | HOME | ARI | 2015-01-20 | Chris Rooney | Tom Chmielewski  
+ARI | Kyle Chipchura | AWAY | CHI | 2015-01-20 | Chris Rooney | Tom Chmielewski  
+BOS | Jordan Caron | AWAY | DAL | 2015-01-20 | Rob Martell | Steve Kozari  
+WSH | Tom Wilson | HOME | EDM | 2015-01-20 | Dan O'Rourke | Justin St. Pierre  
+CBJ | Kevin Connauton | AWAY | WPG | 2015-01-21 | Dave Jackson | Ghislain Hebert  
+COL | Alex Tanguay | HOME | BOS | 2015-01-21 | Rob Martell | Tom Kowal  
+BOS | Kevan Miller | AWAY | COL | 2015-01-21 | Rob Martell | Tom Kowal  
+CGY | Matt Stajan | HOME | ANA | 2015-01-21 | Gord Dwyer | Tim Peel  
+LAK | Jeff Carter | AWAY | SJS | 2015-01-21 | Mike Leggo | Ian Walsh  
+LAK | Drew Doughty | AWAY | SJS | 2015-01-21 | Mike Leggo | Ian Walsh  
+SJS | Brenden Dillon | HOME | LAK | 2015-01-21 | Mike Leggo | Ian Walsh  
+TOR | Richard Panik | HOME | OTT | 2015-01-21 | Frederick L'Ecuyer | Marc Joannette  
+OTT | Kyle Turris | AWAY | TOR | 2015-01-21 | Frederick L'Ecuyer | Marc Joannette  
+CHI | Johnny Oduya | AWAY | PIT | 2015-01-21 | Wes McCauley | Brad Meier  
+VAN | Daniel Sedin | HOME | ANA | 2015-01-27 | Kevin Pollock | Tom Chmielewski  
+ANA | Corey Perry | AWAY | VAN | 2015-01-27 | Kevin Pollock | Tom Chmielewski  
+WPG | Chris Thorburn | HOME | PIT | 2015-01-27 | Mike Leggo | Rob Martell  
+WSH | Jack Hillen | HOME | CBJ | 2015-01-27 | Brad Watson | Eric Furlatt  
+CBJ | Jared Boll | AWAY | WSH | 2015-01-27 | Brad Watson | Eric Furlatt  
+TBL | Andrej Sustr | HOME | CAR | 2015-01-27 | Wes McCauley | TJ Luxmore  
+DAL | Ryan Garbutt | AWAY | MTL | 2015-01-27 | Jean Hebert | Marc Joannette  
+DAL | Vernon Fiddler | AWAY | MTL | 2015-01-27 | Jean Hebert | Marc Joannette  
+DAL | Alex Goligoski | AWAY | MTL | 2015-01-27 | Jean Hebert | Marc Joannette  
+CGY | Joe Colborne | HOME | BUF | 2015-01-27 | Tom Kowal | Brad Meier  
+BUF | Tyler Ennis | AWAY | CGY | 2015-01-27 | Tom Kowal | Brad Meier  
+WSH | John Carlson | HOME | PIT | 2015-01-28 | Tim Peel | Graham Skilliter  
+LAK | Dustin Brown | HOME | CHI | 2015-01-28 | Gord Dwyer | Kyle Rehman  

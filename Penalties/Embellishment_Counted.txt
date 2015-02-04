@@ -1,0 +1,126 @@
+This is the sorted data for the calls involving Embellishment
+
+It has been called 57 times
+
+Teams
+
+PIT - 5
+MTL - 5
+OTT - 4
+MIN - 3
+BOS - 3
+CGY - 3
+STL - 3
+ANA - 3
+DET - 2
+FLA - 2
+NSH - 2
+CHI - 2
+VAN - 2
+SJS - 2
+PHI - 2
+LAK - 2
+EDM - 2
+ARI - 2
+CAR - 1
+NYI - 1
+NJD - 1
+DAL - 1
+WPG - 1
+CBJ - 1
+BUF - 1
+TBL - 1
+
+Players
+
+P.K. Subban - 2
+Brad Marchand - 2
+Evgeni Malkin - 2
+T.J. Oshie - 1
+Mike Weaver - 1
+Tyler Johnson - 1
+Mark Giordano - 1
+Justin Abdelkader - 1
+Max Pacioretty - 1
+Keith Ballard - 1
+Sami Vatanen - 1
+Jim Slater - 1
+Jordan Nolan - 1
+Ryan Getzlaf - 1
+Markus Granlund - 1
+David Perron - 1
+Bobby Ryan - 1
+Blake Comeau - 1
+Filip Forsberg - 1
+Michael Ryder - 1
+Derek Dorsett - 1
+Jarret Stoll - 1
+Zac Rinaldo - 1
+Martin Erat - 1
+Corey Perry - 1
+Kyle Chipchura - 1
+Brayden Schenn - 1
+Ryan Garbutt - 1
+Victor Rask - 1
+Scott Hartnell - 1
+Zack Kassian - 1
+Vladimir Tarasenko - 1
+Jussi Jokinen - 1
+Gustav Nyquist - 1
+Kyle Turris - 1
+Logan Couture - 1
+Bryan Bickell - 1
+Niklas Backstrom - 1
+Chris Kunitz - 1
+Steve Ott - 1
+Zemgus Girgensons - 1
+James Neal - 1
+Paul Byron - 1
+Stephane Veilleux - 1
+Reilly Smith - 1
+Andrew Shaw - 1
+Jonathan Huberdeau - 1
+Matt Irwin - 1
+Clarke MacArthur - 1
+Steve Downie - 1
+Matt Martin - 1
+Jeff Petry - 1
+Curtis Lazar - 1
+Brandon Prust - 1
+
+Referees
+
+Dan O'Rourke - 9
+Steve Kozari - 7
+Greg Kimmerly - 7
+Frederick L'Ecuyer - 6
+Dan O'Halloran - 5
+Mark Lemelin - 5
+Francis Charron - 5
+Tim Peel - 5
+Kyle Rehman - 4
+Brad Watson - 4
+Tom Kowal - 4
+Mike Leggo - 4
+Chris Rooney - 4
+Wes McCauley - 4
+Brad Meier - 4
+Dave Jackson - 3
+Ghislain Hebert - 3
+Marc Joannette - 3
+Francois St. Laurent - 3
+Eric Furlatt - 3
+Brian Pochmara - 2
+Kelly Sutherland - 2
+Paul Devorski - 2
+Gord Dwyer - 2
+Dave Lewis - 2
+Kevin Pollock - 2
+Graham Skilliter - 2
+Dennis LaRue - 2
+Chris Lee - 1
+Ian Walsh - 1
+TJ Luxmore - 1
+Justin St. Pierre - 1
+Jean Hebert - 1
+Trevor Hanson - 1
