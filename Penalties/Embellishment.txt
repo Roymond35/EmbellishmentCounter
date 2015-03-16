@@ -15,8 +15,8 @@ PHI | Brayden Schenn | HOME | DET | 2014-10-25 | Francis Charron | Dan O'Rourke
 ANA | Sami Vatanen | AWAY | SJS | 2014-10-26 | Tim Peel | Trevor Hanson  
 MIN | Niklas Backstrom | HOME | BOS | 2014-10-28 | Wes McCauley | Dave Lewis  
 CGY | Mark Giordano | AWAY | MTL | 2014-10-28 | Tom Kowal | Brad Meier  
-CHI | Andrew Shaw | HOME | ANA | 2014-10-28 | Greg Kimmerly | Chris Lee  
 NYI | Matt Martin | AWAY | WPG | 2014-10-28 | Kelly Sutherland | Steve Kozari  
+CHI | Andrew Shaw | HOME | ANA | 2014-10-28 | Greg Kimmerly | Chris Lee  
 ANA | Corey Perry | AWAY | DAL | 2014-10-31 | Mike Leggo | Kelly Sutherland  
 PHI | Zac Rinaldo | HOME | FLA | 2014-11-01 | Francis Charron | Tim Peel  
 CBJ | Scott Hartnell | AWAY | NJD | 2014-11-01 | Dan O'Rourke | Graham Skilliter  
@@ -39,8 +39,8 @@ OTT | Clarke MacArthur | HOME | NSH | 2014-11-20 | Mike Leggo | Tim Peel
 CGY | Paul Byron | AWAY | NJD | 2014-11-22 | Francis Charron | Dan O'Rourke  
 OTT | Kyle Turris | HOME | DET | 2014-11-24 | Kevin Pollock | Francois St. Laurent  
 DET | Gustav Nyquist | AWAY | NJD | 2014-11-28 | Paul Devorski | Mark Lemelin  
-VAN | Derek Dorsett | AWAY | WSH | 2014-12-02 | Dan O'Halloran | Jean Hebert  
 LAK | Jordan Nolan | HOME | BOS | 2014-12-02 | Dan O'Rourke | Kyle Rehman  
+VAN | Derek Dorsett | AWAY | WSH | 2014-12-02 | Dan O'Halloran | Jean Hebert  
 DAL | Ryan Garbutt | AWAY | MTL | 2014-12-06 | Dave Jackson | Steve Kozari  
 NSH | James Neal | AWAY | SJS | 2014-12-13 | Frederick L'Ecuyer | Gord Dwyer  
 PIT | Blake Comeau | HOME | CBJ | 2014-12-13 | Chris Rooney | Francis Charron  
@@ -57,3 +57,16 @@ SJS | Logan Couture | HOME | MIN | 2015-01-06 | Dan O'Rourke | Brian Pochmara
 STL | T.J. Oshie | HOME | DET | 2015-01-15 | Frederick L'Ecuyer | Gord Dwyer  
 CHI | Bryan Bickell | AWAY | WPG | 2015-01-16 | Ghislain Hebert | Tom Kowal  
 MTL | P.K. Subban | AWAY | NYR | 2015-01-29 | Brad Watson | Steve Kozari  
+NYI | Brock Nelson | HOME | DET | 2015-01-31 | Chris Rooney | Eric Furlatt  
+NSH | Calle Jarnkrok | AWAY | PIT | 2015-02-01 | Eric Furlatt | Steve Kozari  
+EDM | Iiro Pakarinen | AWAY | NJD | 2015-02-09 | Paul Devorski | Kyle Rehman  
+MIN | Mikko Koivu | HOME | CAR | 2015-02-14 | Dan O'Halloran | Greg Kimmerly  
+NYR | Carl Hagelin | HOME | ARI | 2015-02-14 | Gord Dwyer | Tim Peel  
+CHI | Kris Versteeg | AWAY | FLA | 2015-02-26 | Mike Leggo | Brad Meier  
+CAR | Alexander Semin | AWAY | WSH | 2015-02-27 | Paul Devorski | Ghislain Hebert  
+NSH | Filip Forsberg | HOME | DET | 2015-02-28 | Dave Jackson | Rob Martell  
+CAR | Alexander Semin | AWAY | NYI | 2015-02-28 | Tim Peel | Graham Skilliter  
+WSH | Tom Wilson | HOME | TOR | 2015-03-01 | Brian Pochmara | Graham Skilliter  
+EDM | Derek Roy | HOME | CHI | 2015-03-06 | Brad Watson | Kyle Rehman  
+NSH | Gabriel Bourque | HOME | ARI | 2015-03-09 | Ian Walsh | Kevin Pollock  
+BOS | Gregory Campbell | AWAY | OTT | 2015-03-10 | Chris Lee | Kyle Rehman  
