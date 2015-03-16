@@ -1,6 +1,6 @@
 This is the sorted data for the calls involving Embellishment
 
-It has been called 70 times
+It has been called 74 times
 
 Teams
 
@@ -8,21 +8,22 @@ NSH - 5
 PIT - 5
 MTL - 5
 MIN - 4
+CAR - 4
 BOS - 4
+STL - 4
 EDM - 4
 OTT - 4
-CAR - 3
+FLA - 3
 CGY - 3
 CHI - 3
-STL - 3
 ANA - 3
 DET - 2
 NYI - 2
-FLA - 2
 VAN - 2
 SJS - 2
 PHI - 2
 LAK - 2
+TBL - 2
 ARI - 2
 NYR - 1
 NJD - 1
@@ -31,7 +32,6 @@ WPG - 1
 WSH - 1
 CBJ - 1
 BUF - 1
-TBL - 1
 
 Players
 
@@ -63,15 +63,18 @@ Calle Jarnkrok - 1
 Martin Erat - 1
 Corey Perry - 1
 Kyle Chipchura - 1
+Jori Lehtera - 1
 Brayden Schenn - 1
 Ryan Garbutt - 1
 Victor Rask - 1
+Alex Killorn - 1
 Iiro Pakarinen - 1
 Scott Hartnell - 1
 Derek Roy - 1
 Zack Kassian - 1
 Vladimir Tarasenko - 1
 Jussi Jokinen - 1
+Nick Bjugstad - 1
 Gregory Campbell - 1
 Gustav Nyquist - 1
 Brock Nelson - 1
@@ -83,6 +86,7 @@ Niklas Backstrom - 1
 Tom Wilson - 1
 Chris Kunitz - 1
 Steve Ott - 1
+Eric Staal - 1
 Zemgus Girgensons - 1
 James Neal - 1
 Kris Versteeg - 1
@@ -103,26 +107,26 @@ Brandon Prust - 1
 
 Referees
 
-Dan O'Rourke - 9
+Dan O'Rourke - 10
+Kyle Rehman - 8
 Steve Kozari - 8
 Greg Kimmerly - 8
-Kyle Rehman - 7
-Tim Peel - 7
+Tim Peel - 8
 Dan O'Halloran - 6
+Mark Lemelin - 6
 Frederick L'Ecuyer - 6
+Chris Rooney - 6
 Brad Watson - 5
-Mark Lemelin - 5
+Ghislain Hebert - 5
 Francis Charron - 5
 Mike Leggo - 5
-Chris Rooney - 5
+Wes McCauley - 5
 Eric Furlatt - 5
 Brad Meier - 5
 Dave Jackson - 4
-Ghislain Hebert - 4
 Tom Kowal - 4
 Paul Devorski - 4
 Graham Skilliter - 4
-Wes McCauley - 4
 Brian Pochmara - 3
 Marc Joannette - 3
 Gord Dwyer - 3
@@ -133,8 +137,8 @@ Dave Lewis - 2
 Chris Lee - 2
 Ian Walsh - 2
 Dennis LaRue - 2
+Rob Martell - 2
 TJ Luxmore - 1
-Rob Martell - 1
 Justin St. Pierre - 1
 Jean Hebert - 1
 Trevor Hanson - 1
