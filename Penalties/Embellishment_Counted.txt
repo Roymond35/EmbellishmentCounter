@@ -1,35 +1,35 @@
 This is the sorted data for the calls involving Embellishment
 
-It has been called 74 times
+It has been called 84 times
 
 Teams
 
+PIT - 6
+MTL - 6
+CAR - 5
 NSH - 5
-PIT - 5
-MTL - 5
+ANA - 5
 MIN - 4
-CAR - 4
 BOS - 4
+CGY - 4
 STL - 4
 EDM - 4
 OTT - 4
 FLA - 3
-CGY - 3
 CHI - 3
-ANA - 3
+WSH - 3
+PHI - 3
 DET - 2
 NYI - 2
+DAL - 2
 VAN - 2
 SJS - 2
-PHI - 2
 LAK - 2
 TBL - 2
 ARI - 2
 NYR - 1
 NJD - 1
-DAL - 1
 WPG - 1
-WSH - 1
 CBJ - 1
 BUF - 1
 
@@ -37,13 +37,17 @@ Players
 
 P.K. Subban - 2
 Filip Forsberg - 2
+Zac Rinaldo - 2
+Corey Perry - 2
 Brad Marchand - 2
 Alexander Semin - 2
+Tom Wilson - 2
 Evgeni Malkin - 2
 T.J. Oshie - 1
 Mike Weaver - 1
 Tyler Johnson - 1
 Mark Giordano - 1
+Brendan Gallagher - 1
 Justin Abdelkader - 1
 Max Pacioretty - 1
 Keith Ballard - 1
@@ -58,11 +62,10 @@ Blake Comeau - 1
 Michael Ryder - 1
 Derek Dorsett - 1
 Jarret Stoll - 1
-Zac Rinaldo - 1
 Calle Jarnkrok - 1
 Martin Erat - 1
-Corey Perry - 1
 Kyle Chipchura - 1
+Daniel Winnik - 1
 Jori Lehtera - 1
 Brayden Schenn - 1
 Ryan Garbutt - 1
@@ -72,20 +75,24 @@ Iiro Pakarinen - 1
 Scott Hartnell - 1
 Derek Roy - 1
 Zack Kassian - 1
+Alex Ovechkin - 1
 Vladimir Tarasenko - 1
 Jussi Jokinen - 1
 Nick Bjugstad - 1
 Gregory Campbell - 1
 Gustav Nyquist - 1
+Alex Goligoski - 1
 Brock Nelson - 1
 Kyle Turris - 1
 Logan Couture - 1
 Bryan Bickell - 1
+Nate Thompson - 1
+Chris Terry - 1
 Gabriel Bourque - 1
 Niklas Backstrom - 1
-Tom Wilson - 1
 Chris Kunitz - 1
 Steve Ott - 1
+Johnny Gaudreau - 1
 Eric Staal - 1
 Zemgus Girgensons - 1
 James Neal - 1
@@ -107,35 +114,35 @@ Brandon Prust - 1
 
 Referees
 
-Dan O'Rourke - 10
-Kyle Rehman - 8
-Steve Kozari - 8
-Greg Kimmerly - 8
-Tim Peel - 8
+Dan O'Rourke - 11
+Kyle Rehman - 10
+Steve Kozari - 9
+Greg Kimmerly - 9
+Tim Peel - 9
+Frederick L'Ecuyer - 8
+Ghislain Hebert - 6
 Dan O'Halloran - 6
 Mark Lemelin - 6
-Frederick L'Ecuyer - 6
 Chris Rooney - 6
+Wes McCauley - 6
+Eric Furlatt - 6
 Brad Watson - 5
-Ghislain Hebert - 5
 Francis Charron - 5
 Mike Leggo - 5
-Wes McCauley - 5
-Eric Furlatt - 5
+Graham Skilliter - 5
+Ian Walsh - 5
 Brad Meier - 5
 Dave Jackson - 4
+Marc Joannette - 4
 Tom Kowal - 4
 Paul Devorski - 4
-Graham Skilliter - 4
+Gord Dwyer - 4
+Kevin Pollock - 4
+Francois St. Laurent - 4
 Brian Pochmara - 3
-Marc Joannette - 3
-Gord Dwyer - 3
-Kevin Pollock - 3
-Francois St. Laurent - 3
+Chris Lee - 3
 Kelly Sutherland - 2
 Dave Lewis - 2
-Chris Lee - 2
-Ian Walsh - 2
 Dennis LaRue - 2
 Rob Martell - 2
 TJ Luxmore - 1
