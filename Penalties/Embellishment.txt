@@ -84,3 +84,4 @@ WSH | Alex Ovechkin | HOME | NSH | 2015-03-28 | Eric Furlatt | Kyle Rehman
 DAL | Alex Goligoski | AWAY | VAN | 2015-03-28 | Ian Walsh | Steve Kozari  
 PHI | Zac Rinaldo | AWAY | PIT | 2015-04-01 | Gord Dwyer | Ian Walsh  
 ANA | Nate Thompson | AWAY | EDM | 2015-04-01 | Frederick L'Ecuyer | Kyle Rehman  
+NJD | Mike Cammalleri | AWAY | NYR | 2015-04-04 | Dave Jackson | Eric Furlatt  
